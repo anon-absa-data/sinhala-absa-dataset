@@ -1,0 +1,607 @@
+sentence_id,product_name,price,rating,review,cleaned_review,aspect_sentiment_anotation,review_type,category
+1,Girls Side Bags,Rs. 790,5,ganata marama vatinava..thank u daraz.,ගානට මාරම වටිනවා..තැනක් උ දරළ්.,"{
+('ගානට', 'Price', ' මාරම වටිනවා', positive)
+}",Sinhala_in_English,fashion
+2,Girls Side Bags,Rs. 790,5,good harima lassanai gane hatiyata pauima na.. man gift ekak denna gaththe  eyata eka dunna photo ganna bari una baya nathuwa ganna puluwan..👍👍,ගූඩ් හරිම ලස්සනෛ ගැනේ හැටියට පෞඉම න.. මන් ගිෆ්ට් එකක් දෙන්න ගත්තේ  එයට එක දුන්න ෆොටෝ ගන්න බැරි උන බය නැතුව ගන්න පුළුවන්..👍👍,"{ (NULL, 'Appearance', 'හරිම ලස්සනෛ', positive), ('NULL', 'Ease of Use', 'බය නැතුව ගන්න පුළුවන්', positive), ('NULL', 'Overall Satisfaction', 'ගූඩ්', positive) }",Sinhala_in_English,fashion
+3,Girls Side Bags,Rs. 790,5,හොඳයි. හයියට තියෙනවා. වැඩි කාලයක් පාවිච්චි කරන්න පුලුවන්.,හොඳයි. හයියට තියෙනවා. වැඩි කාලයක් පාවිච්චි කරන්න පුලුවන්.,"{
+(NULL, 'Material Quality', 'හයියට තියෙනවා', positive),
+(NULL, 'Durability', 'වැඩි කාලයක් පාවිච්චි කරන්න පුලුවන්', positive),
+(NULL, 'Overall Satisfaction', 'හොඳයි', positive)
+}",Pure_Sinhala,fashion
+4,Girls Side Bags,Rs. 790,5,බෑග් එක හොදට ඉඩ තියෙනවා බය නැතුව ගන්න.👍👍👍,බෑග් එක හොදට ඉඩ තියෙනවා බය නැතුව ගන්න.👍👍👍,"{
+(NULL, 'Ease of Use', 'බය නැතුව ගන්න', positive),
+('බෑග් එක', 'Overall Satisfaction', 'හොදට ඉඩ තියෙනවා', positive)
+}",Pure_Sinhala,fashion
+5,Girls Side Bags,Rs. 790,5,ඉතා හොඳයි ...,ඉතා හොඳයි ...,"{
+(NULL, 'Overall Satisfaction', 'ඉතා හොඳයි', positive)
+}",Pure_Sinhala,fashion
+6,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",5,හරිම ලස්සනයි . ඒ වගේම delivery service excellent . thank you❤️ daraz & seller,හරිම ලස්සනයි . ඒ වගේම delivery service excellent . thank you❤️ daraz & seller,"{
+(NULL, 'Appearance', 'හරිම ලස්සනයි', positive),
+('delivery service', 'Delivery', ' excellent', positive)
+}",Code_Mixed,fashion
+7,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",5,මේකනම් ගොඩක්ම හොඳ හෑන් බෑග් එකක් . ඔයාලත් අරගෙන බලන්න.,මේකනම් ගොඩක්ම හොඳ හෑන් බෑග් එකක් . ඔයාලත් අරගෙන බලන්න.,"{
+('හෑන් බෑග් එකක්', 'Overall Satisfaction', 'ගොඩක්ම හොඳ', positive)
+}",Pure_Sinhala,fashion
+8,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",1,කිසිම වැඩක් නෑ original photo එකෙ තියෙන එක නෙමෙයි එවලා තියෙන්නේ. Purse එකක් දාන්න වත් බෑ. රැවටෙන්න එපා මේවගේ දේවල් වලට.,කිසිම වැඩක් නෑ original photo එකෙ තියෙන එක නෙමෙයි එවලා තියෙන්නේ. Purse එකක් දාන්න වත් බෑ. රැවටෙන්න එපා මේවගේ දේවල් වලට.,"{
+(NULL, 'Product-Image Consistency', 'original photo එකෙ තියෙන එක නෙමෙයි', negative),
+(NULL, 'Ease of Use', 'Purse එකක් දාන්න වත් බෑ', negative),
+(NULL, 'Overall Satisfaction', 'කිසිම වැඩක් නෑ', negative),
+(NULL, 'Durability', 'රැවටෙන්න එපා මේවගේ දේවල් වලට', negative)
+}",Pure_Sinhala,fashion
+9,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",5,ඇත්තටම හිතුවටත් වඩා ගොඩාක් හොදයි . thank u Daraz❤️ ගෙවන ගානට ගොඩාක් වටිනවා.,ඇත්තටම හිතුවටත් වඩා ගොඩාක් හොදයි . thank u Daraz❤️ ගෙවන ගානට ගොඩාක් වටිනවා.,"{
+(NULL, 'Overall Satisfaction', 'ගොඩාක් හොදයි', positive),
+(ගෙවන ගානට, 'Price', ' ගොඩාක් වටිනවා', positive)
+}",Pure_Sinhala,fashion
+10,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",5,godakma podi...wadak nehe...return dala thiyenne ganna enneth nehe,ගොඩක්ම පොඩි...වැඩක් නෙහෙ...රෙටුර්න් දල තියෙන්නේ ගන්න එන්නෙත් නෙහෙ,"{
+(NULL, 'Overall Satisfaction', 'වැඩක් නෙහෙ', negative),
+(NULL, 'Delivery', 'ගන්න එන්නෙත් නෙහෙ', negative)
+}",Sinhala_in_English,fashion
+11,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",5,ෆොටෝ එකේ තියනවා වගේම යි. ලස්සනයි.,ෆොටෝ එකේ තියනවා වගේම යි. ලස්සනයි.,"{
+(NULL, 'Product-Image Consistency', 'ෆොටෝ එකේ තියනවා වගේම', positive),
+(NULL, 'Appearance', 'ලස්සනයි', positive)
+}",Pure_Sinhala,fashion
+12,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",5,supiri ...baya nathuwa ganna💪👍,සුපිරි ...බය නැතුව ගන්න💪👍,"{
+(NULL, 'Overall Satisfaction', 'සුපිරි', positive),
+(NULL, 'Ease of Use', 'බය නැතුව ගන්න', positive)
+}",Sinhala_in_English,fashion
+13,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",5,ගොඩක් පොඩියි,ගොඩක් පොඩියි,"{
+(NULL, 'Overall Satisfaction', 'ගොඩක් පොඩියි', negative)
+}",Pure_Sinhala,fashion
+14,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",4,මෙක  නම්  ගොඩක්  හොදයි\n,මෙක  නම්  ගොඩක්  හොදයි\n,"{
+('මෙක', 'Overall Satisfaction', 'ගොඩක් හොදයි', positive)
+}",Pure_Sinhala,fashion
+15,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",5,hodatam hodaiii...ලස්සන 😍👍,hodatam hodaiii...ලස්සන 😍👍,"{
+(NULL, 'Overall Satisfaction', 'hodatam hodaiii', positive),
+(NULL, 'Appearance', 'ලස්සන', positive)
+}",Pure_Sinhala,fashion
+16,Top Selling Women Messenger Bags Matching-all Leather Feeling PU Shoulder Bags Fashion Gift for Girls & Middle Aged Female,"Rs. 7,768",1,bag එක  හොඳයි. ලස්සනයි. වටිනා  bag එකක්,bag එක  හොඳයි. ලස්සනයි. වටිනා  bag එකක්,"{
+('bag එක', 'Overall Satisfaction', 'හොඳයි', positive),
+(NULL, 'Appearance', 'ලස්සනයි', positive),
+('bag එකක්', 'Value for Money', 'වටිනා', positive)
+}",Pure_Sinhala,fashion
+17,Women's Straw Woven Handbag Large Rattan Basket Beach Bag Summer Women Messenger Crossbody Bags Girls Small Beach Handbag New,"Rs. 7,308",5,බෑග් එක ගොඩාක් හොඳයි.  හොඳ quality එක්ක තියනවා.  හැබැයි මං select කරපු එක නෙමෙයි ආවේ. design එක පොඩ්ඩක් වෙනස්.   ඒත් ගැටළුවක් නෑ. ලස්සනයි.,බෑග් එක ගොඩාක් හොඳයි.  හොඳ quality එක්ක තියනවා.  හැබැයි මං select කරපු එක නෙමෙයි ආවේ. design එක පොඩ්ඩක් වෙනස්.   ඒත් ගැටළුවක් නෑ. ලස්සනයි.,"{
+('බෑග් එක', 'Overall Satisfaction', 'ගොඩාක් හොඳයි', positive),
+(NULL, 'Material Quality', 'හොඳ quality එක්ක තියනවා', positive),
+(NULL, 'Product-Image Consistency', 'මං select කරපු එක නෙමෙයි ආවේ', negative),
+(NULL, 'Design Aesthetic', 'design එක පොඩ්ඩක් වෙනස්', negative),
+(NULL, 'Appearance', 'ලස්සනයි', positive)
+}",Pure_Sinhala,fashion
+18,Women's Straw Woven Handbag Large Rattan Basket Beach Bag Summer Women Messenger Crossbody Bags Girls Small Beach Handbag New,"Rs. 7,308",5,හිතුවට වැඩිය හරිම පොඩියි. But it so cute ❤️,හිතුවට වැඩිය හරිම පොඩියි. But it so cute ❤️,"{
+(NULL, 'Overall Satisfaction', 'හිතුවට වැඩිය හරිම පොඩියි', negative),
+(NULL, 'Appearance', 'so cute', positive)
+}",Pure_Sinhala,fashion
+19,Women's Straw Woven Handbag Large Rattan Basket Beach Bag Summer Women Messenger Crossbody Bags Girls Small Beach Handbag New,"Rs. 7,308",5,goodk hodai bag eka .ganat gdk watinwa 🥰,ගූද්ක් හොදි බග් එක .ගානට් ගදක් වටිනවා 🥰,"{
+('බග් එක', 'Overall Satisfaction', 'ගූද්ක් හොදි', positive),
+(NULL, 'Price', 'ගානට් ගදක් වටිනවා', positive)
+}",Sinhala_in_English,fashion
+20,Women's Straw Woven Handbag Large Rattan Basket Beach Bag Summer Women Messenger Crossbody Bags Girls Small Beach Handbag New,"Rs. 7,308",5,බෑග් එක හොදයි හැබැයි පොඩියි.....🥲,බෑග් එක හොදයි හැබැයි පොඩියි.....🥲,"{
+('බෑග් එක', 'Overall Satisfaction', 'හොදයි', positive),
+(NULL, 'Size Accuracy', 'පොඩියි', negative)
+}",Pure_Sinhala,fashion
+21,Women's Straw Woven Handbag Large Rattan Basket Beach Bag Summer Women Messenger Crossbody Bags Girls Small Beach Handbag New,"Rs. 7,308",5,lassanai hodata tibuna,ලස්සනෛ හොදට තිබුන,"{
+(NULL, 'Appearance', 'ලස්සනෛ', positive),
+(NULL, 'Overall Satisfaction', 'හොදට තිබුන', positive)
+}",Sinhala_in_English,fashion
+22,Women's Straw Woven Handbag Large Rattan Basket Beach Bag Summer Women Messenger Crossbody Bags Girls Small Beach Handbag New,"Rs. 7,308",5,හොඳ බැග් එකක් ලස්සනයි,හොඳ බැග් එකක් ලස්සනයි,"{
+('බැග් එකක්', 'Overall Satisfaction', 'හොඳ', positive),
+(NULL, 'Appearance', 'ලස්සනයි', positive)
+}
+",Pure_Sinhala,fashion
+23,Women's Straw Woven Handbag Large Rattan Basket Beach Bag Summer Women Messenger Crossbody Bags Girls Small Beach Handbag New,"Rs. 7,308",5,ලස්සනයි එත් පොඩි,ලස්සනයි එත් පොඩි,"{
+(NULL, 'Appearance', 'ලස්සනයි', positive),
+(NULL, 'Size Accuracy', 'පොඩි', negative)
+}
+",Pure_Sinhala,fashion
+24,Women's Straw Woven Handbag Large Rattan Basket Beach Bag Summer Women Messenger Crossbody Bags Girls Small Beach Handbag New,"Rs. 7,308",5,Hodaii,Hodaii,"{
+(NULL, 'Overall Satisfaction', 'Hodaii', positive)
+}",Sinhala_in_English,fashion
+25,Cute Pumpkin Bag 2025 Autumn And Winter New Fashion Cloud Crossbody Bag Niche Design Sweet Girl Handbag,"Rs. 6,756",5,mara lassanai.🥰hbai chutie.hithuwt wd.,මර ලස්සනෛ.🥰හ්බි චුතිඑ.හිතුව්ට් වඩ්.,"{
+(NULL, 'Appearance', 'මර ලස්සනෛ', positive),
+(NULL, 'Size Accuracy', 'හ්බි චුතිඑ.හිතුව්ට් වඩ්', negative)
+}",Sinhala_in_English,fashion
+26,Cute Pumpkin Bag 2025 Autumn And Winter New Fashion Cloud Crossbody Bag Niche Design Sweet Girl Handbag,"Rs. 6,756",5,hithuwat wada beg ek hodyi,හිතුවට් වැඩ බෙග් එක හොදයි,"{
+('බෙග් එක', 'Overall Satisfaction', 'හිතුවට් වැඩ හොදයි', positive)
+}",Sinhala_in_English,fashion
+27,Waterproof Canvas Women Handbags Shoulder Bag Nylon Ladies Messenger Bag Oxford Crossbody Bags Tote Book Bags for Girls Satchels,"Rs. 12,246",5,හිතුවට වඩා ගොඩක් හොද product එකක්.. ඒ ගානට වටිනවා ඇත්තටම.. ලස්සනයි.. හරිම cute.. හිතුවට වඩා ඉක්මනට ලැබුනා. Best delivery service 👌🪻,හිතුවට වඩා ගොඩක් හොද product එකක්.. ඒ ගානට වටිනවා ඇත්තටම.. ලස්සනයි.. හරිම cute.. හිතුවට වඩා ඉක්මනට ලැබුනා. Best delivery service 👌🪻,"{
+(NULL, 'Overall Satisfaction', 'හිතුවට වඩා ගොඩක් හොද product එකක්', positive),
+(NULL, 'Price', 'ඒ ගානට වටිනවා', positive),
+(NULL, 'Appearance', 'ලස්සනයි', positive),
+(NULL, 'Design Aesthetic', 'හරිම cute', positive),
+(NULL, 'Delivery', 'හිතුවට වඩා ඉක්මනට ලැබුනා. Best delivery service', positive)
+}",Pure_Sinhala,fashion
+28,Waterproof Canvas Women Handbags Shoulder Bag Nylon Ladies Messenger Bag Oxford Crossbody Bags Tote Book Bags for Girls Satchels,"Rs. 12,246",5,Bag eke belt eka kadila 😕,බග් එකේ බෙල්ට් එක කැඩිලා 😕,"{
+('බෙල්ට් එක', 'Closure Type & Quality', 'කැඩිලා', negative)
+}",Sinhala_in_English,fashion
+29,Waterproof Canvas Women Handbags Shoulder Bag Nylon Ladies Messenger Bag Oxford Crossbody Bags Tote Book Bags for Girls Satchels,"Rs. 12,246",1,vadak naaa thundas gank vatinnaaaa athule nkn redi tikak vitry bag eke patiya sathiyen vitr galavey kisima vatinakmak naa ee price ekt gnnepa kauruth,වැඩක් නාඅ තුන්දාස් ගානක් වතිආආ ඇතුලේ න්ක්න් රෙදි ටිකක් විතරය් බග් එකේ පටිය සතියෙන් විටර් ගලවෙය් කිසිම වටිනාකමක් නා ඊ ප්රිචේ එකට් ගන්නෙපා කුරුත්,"{
+(NULL, 'Overall Satisfaction', 'වැඩක් නාඅ', negative),
+(NULL, 'Price', 'තුන්දාස් ගානක් වතිආආ', negative),
+(NULL, 'Material Quality', 'ඇතුලේ න්ක්න් රෙදි ටිකක් විතරය්', negative),
+('බග් එකේ පටිය', 'Durability', 'සතියෙන් විටර් ගලවෙය්', negative),
+(NULL, 'Value for Money', 'කිසිම වටිනාකමක් නා', negative)
+}",Sinhala_in_English,fashion
+30,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,"cute bag....😍😍😍mama godak asai me bag ekata..eka godak haiya athinuth niyama bag ekak thank u.,",චුටේ බග්....😍😍😍මම ගොඩක් ඇසි මේ බග් එකට..එක ගොඩක් හිය අතිනුත් නියම බග් එකක් තැනක් උ.,"{
+(NULL, 'Appearance', 'චුටේ බග්', positive),
+('බග් එකට', 'Overall Satisfaction', 'මම ගොඩක් ඇසි මේ බග් එකට', positive),
+(NULL, 'Material Quality', 'ගොඩක් හිය අතිනුත්', positive),
+(NULL, 'Design Aesthetic', 'නියම බග් එකක්', positive)
+}",Sinhala_in_English,fashion
+31,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,Wow!!! really really really like it 😭🔥🥺  price එකට වටිනවා අනේ 🥺💕 හරිම කියුට් ❤️,Wow!!! really really really like it 😭🔥🥺  price එකට වටිනවා අනේ 🥺💕 හරිම කියුට් ❤️,"{
+(NULL, 'Overall Satisfaction', 'really really really like it', positive),
+('price එකට', 'Price', 'වටිනවා', positive),
+(NULL, 'Design Aesthetic', 'හරිම කියුට්', positive)
+}",Code_Mixed,fashion
+32,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,ඉක්මනටම ආව. Delivery partner ත් හොදයි. bag එක ලස්සනයි. thnq Daraz 🖤,ඉක්මනටම ආව. Delivery partner ත් හොදයි. bag එක ලස්සනයි. thnq Daraz 🖤,"{
+('NULL', 'Delivery', 'ඉක්මනටම ආව', positive),
+('Delivery partner ත්', 'Delivery', 'හොදයි', positive),
+('bag එක', 'Appearance', 'ලස්සනයි', positive)
+}
+",Pure_Sinhala,fashion
+33,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,හොදයි 😍  හිතුවට වඩා  පොඩී හැබැයි  😕  නමුත්  ගොඩක් ලස්සනයි ❤️,හොදයි 😍  හිතුවට වඩා  පොඩී හැබැයි  😕  නමුත්  ගොඩක් ලස්සනයි ❤️,"{
+(NULL, 'Overall Satisfaction', 'හොදයි', positive),
+(NULL, 'Size Accuracy', 'හිතුවට වඩා පොඩී', negative),
+(NULL, 'Appearance', 'ගොඩක් ලස්සනයි', positive)
+}",Pure_Sinhala,fashion
+34,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,හරිම කොලිටි හැබැයි හිතුවට වඩා පොඩි,හරිම කොලිටි හැබැයි හිතුවට වඩා පොඩි,"{
+(NULL, 'Material Quality', 'හරිම කොලිටි', positive),
+(NULL, 'Size Accuracy', 'හිතුවට වඩා පොඩි', negative)
+}",Pure_Sinhala,fashion
+35,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,හොදයි...ගෙවන ගානටනන් වටිනවා...🤩🤍,හොදයි...ගෙවන ගානටනන් වටිනවා...🤩🤍,"{
+(NULL, 'Overall Satisfaction', 'හොදයි', positive),
+('ගානටනන්', 'Price / Value for Money', 'වටිනවා', positive)
+}",Pure_Sinhala,fashion
+36,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",4,Lassanai.e price ekata awlak na❤️,ලස්සනෛ.ඒ price එකට අව්ලක් න❤️,"{
+(NULL, 'Appearance', 'ලස්සනෛ', positive),
+('price එකට', 'Price / Value for Money', 'අව්ලක් න', positive)
+}",Sinhala_in_English,fashion
+37,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,හිතුවාට වඩා පොඩි.නමුත් හොදයි 👍,හිතුවාට වඩා පොඩි.නමුත් හොදයි 👍,"{
+(NULL, 'Size Accuracy', 'හිතුවාට වඩා පොඩි', negative),
+(NULL, 'Overall Satisfaction', 'හොදයි', positive)
+}",Pure_Sinhala,fashion
+38,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,ඒකනම්.මාර ලස්සනයි ✨,ඒකනම්.මාර ලස්සනයි ✨,"{
+(NULL, 'Appearance', 'මාර ලස්සනයි', positive)
+}",Pure_Sinhala,fashion
+39,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,hodai,හොදි,"{
+(NULL, 'Overall Satisfaction', 'හොදි', positive)
+}",Sinhala_in_English,fashion
+40,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,"wow eka harima cute, photo eke wagema lassanai, reddath hodai ,phone eka daganna puluwan, Thank you daraz❤️",වොව් එක හරිම චුටේ,"{
+(NULL, 'Size Accuracy', 'හරිම චුටේ', negative)
+}",Sinhala_in_English,fashion
+41,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,"බෑග් එකේ සයිස් එක පොඩියි, මම හිතපු තරම් ලොකු නැහැ. ඇත්තටම දුකයි 🥲","බෑග් එකේ සයිස් එක පොඩියි, මම හිතපු තරම් ලොකු නැහැ. ඇත්තටම දුකයි 🥲","{
+('බග් සිළෙ', 'Size Accuracy', 'එෂ්පෙර්ත පන්නි අලෙවුක්කු ඉල්ලා', negative)
+}",Sinhala_in_English,fashion
+42,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,bag eka 4to eke thibbat wada podi . awlk nh eth podi wadii,බග් එක 4තො එකේ තිබ්බට් වැඩ පොඩි . අව්ලක් න්හ් එත් පොඩි වදී,"{
+(NULL, 'Product-Image Consistency', '4තො එකේ තිබ්බට් වැඩ පොඩි', negative),
+(NULL, 'Overall Satisfaction', 'අව්ලක් න්හ්', positive),
+(NULL, 'Size Accuracy', 'පොඩි වදී', negative)
+}",Sinhala_in_English,fashion
+43,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,"bag eka godak podi, phone ekk wage daagena yanna puluwn",බග් එක ගොඩක් පොඩි,"{
+(NULL, 'Size Accuracy', 'ගොඩක් පොඩි', negative)
+}",Sinhala_in_English,fashion
+44,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,බෑග් එක ගොඩක් පොඩියි. ඒ ගානට ඒක වටින්නේ නැහැ.,බෑග් එක ගොඩක් පොඩියි. ඒ ගානට ඒක වටින්නේ නැහැ.,"{
+('NULL', 'Size Accuracy', 'ගොඩක් පොඩියි', negative),
+('ගානට', 'Price / Value for Money', 'වටින්නේ නැහැ', negative)
+}",Sinhala_in_English,fashion
+45,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,"මේ බෑග් එක නම් වැඩක් නැහැ ගොඩක්ම පොඩි ,","මේ බෑග් එක නම් වැඩක් නැහැ ගොඩක්ම පොඩි ,","{
+(NULL, 'Overall Satisfaction', 'වැඩක් නැහැ', negative),
+(NULL, 'Size Accuracy', 'ගොඩක්ම පොඩි', negative)
+}",Pure_Sinhala,fashion
+46,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,podi..eth maara cue..me ganata watinwaa,පොඩි..එත් මාර කුඑ..මේ ගානට වටිනවා,"{
+(NULL, 'Size Accuracy', 'පොඩි', negative),
+(NULL, 'Appearance', 'මාර කුඑ', positive),
+('මේ ගානට', 'Price / Value for Money', 'වටිනවා', positive)
+}",Sinhala_in_English,fashion
+47,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,e ganata paduwk ne lassni harima,ඒ ගානට පාඩුවක් නේ ලස්ස්නි හරිම,"{
+('ඒ ගානට', 'Price / Value for Money', 'පාඩුවක් නේ', positive),
+(NULL, 'Appearance', 'ලස්ස්නි හරිම', positive)
+}",Sinhala_in_English,fashion
+48,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,"godak podiy bag eka.,.lassanai",ගොඩක් පොදිය් බග් එක.,"{
+(NULL, 'Size Accuracy', 'ගොඩක් පොදිය්', negative)
+}",Sinhala_in_English,fashion
+49,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,Hithuwata wada podi eth cute💕,හිතුවට වැඩ පොඩි එත් චුටේ💕,"{
+(NULL, 'Size Accuracy', 'හිතුවට වැඩ පොඩි', negative),
+(NULL, 'Appearance', 'චුටේ', positive)
+}",Sinhala_in_English,fashion
+50,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,e ganata awlak na,ඒ ගානට අව්ලක් න,"{
+('ඒ ගානට', 'Price / Value for Money', 'අව්ලක් න', positive)
+}",Sinhala_in_English,fashion
+51,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,හොදයි පොඩි වැඩි,හොදයි පොඩි වැඩි,"{
+(NULL, 'Overall Satisfaction', 'හොදයි', positive),
+(NULL, 'Size Accuracy', 'පොඩි වැඩි', negative)
+}",Pure_Sinhala,fashion
+52,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,harima lassanyi,හරිම ලස්සනයි,"{
+(NULL, 'Appearance', 'හරිම ලස්සනයි', positive)
+}",Sinhala_in_English,fashion
+53,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,ලස්සනයි❤️ ෆොටෝ එකේ වගේමයි.,ලස්සනයි❤️ ෆොටෝ එකේ වගේමයි.,"{
+(NULL, 'Appearance', 'ලස්සනයි', positive),
+('ෆොටෝ එකේ', 'Product-Image Consistency', 'වගේමයි', positive)
+}",Sinhala_in_English,fashion
+54,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,bag suppiri,බග් සුප්පිරි,"{
+(NULL, 'Overall Satisfaction', 'සුප්පිරි', positive)
+}",Sinhala_in_English,fashion
+55,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",5,Hithawata wada nam godak podi aneeeee...🤧😓,හිතවට වැඩ නම් ගොඩක් පොඩි aneeeee...🤧😓,"{
+(NULL, 'Size Accuracy', 'හිතවට වැඩ නම් ගොඩක් පොඩි', negative)
+}",Sinhala_in_English,fashion
+56,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",1,"ගන්න නම් එපා පොඩි පර්ස් එකක් වගේ ඒ තරම්ම පොඩි Don't buy it, it's as small as a small purse.😡","ගන්න නම් එපා පොඩි පර්ස් එකක් වගේ ඒ තරම්ම පොඩි Don't buy it, it's as small as a small purse.😡","{
+(NULL, 'Overall Satisfaction', 'ගන්න නම් එපා', negative),
+(NULL, 'Size Accuracy', 'පොඩි පර්ස් එකක් වගේ ඒ තරම්ම පොඩි', negative)
+}",Pure_Sinhala,fashion
+57,Cartoon Print Fashion Women Shoulder Bag Cute Canvas Bag Girls Phone Purse Patchwork Color Crossbody Bag Female Shopping Handbag,"Rs. 2,612",2,wadakma na 4n akawath danna ba podi,වැඩක්ම න 4න් අකවත් දන්නා බ පොඩි,"{
+(NULL, 'Overall Satisfaction', 'වැඩක්ම න', negative),
+('4න් අකවත්', 'Fit', 'දන්නා බ', negative),
+(NULL, 'Size Accuracy', 'පොඩි', negative)
+}",Sinhala_in_English,fashion
+58,Girls Fashion New Traveling Bag Cute Office Casual Women Handbags,"Rs. 2,000",5,order eka labuna thnks,ඔර්දෙර් එක ලැබුන ත්න්ක්ස්,"{
+('ඔර්දෙර් එක', 'Delivery', 'ලැබුන', positive)
+}",Sinhala_in_English,fashion
+59,Girls Fashion New Traveling Bag Cute Office Casual Women Handbags,"Rs. 2,000",1,ඕඩර් කරපු බෑග් එක නෙමෙයි එවලා තියෙන්නෙ. දම්පාට බෑග් එකක් ඕඩර් කලේ. එවලා තියෙන්නෙ වෙනමම පාටක්. කිසිම කොලිටි එකක් නැතුව එවලා තියෙන්නෙ. ගන්න එපා. අපරාදෙ සල්ලි. කිසිම කොලිටි එකක් නෑ. ශිපර් එකත් කිසිම වැඩකට නෑ. ස්ට්‍රැප් එකත් ඒ වගේ. ෆ්‍රී චූටි හෙයාර් ක්ලිප් එකක් එවලා තියෙනවා. අපරාදෙ ඒක එවන වෙලාවෙ මිනිස්සු රවට්ටන්නෙ නැතුව හරියට ඕඩර් කරපු බෑග් එක එවන්න තිබ්බෙ.,ඕඩර් කරපු බෑග් එක නෙමෙයි එවලා තියෙන්නෙ. දම්පාට බෑග් එකක් ඕඩර් කලේ. එවලා තියෙන්නෙ වෙනමම පාටක්. කිසිම කොලිටි එකක් නැතුව එවලා තියෙන්නෙ. ගන්න එපා. අපරාදෙ සල්ලි. කිසිම කොලිටි එකක් නෑ. ශිපර් එකත් කිසිම වැඩකට නෑ. ස්ට්‍රැප් එකත් ඒ වගේ. ෆ්‍රී චූටි හෙයාර් ක්ලිප් එකක් එවලා තියෙනවා. අපරාදෙ ඒක එවන වෙලාවෙ මිනිස්සු රවට්ටන්නෙ නැතුව හරියට ඕඩර් කරපු බෑග් එක එවන්න තිබ්බෙ.,"{
+(NULL, 'Material Accuracy', 'ඕඩර් කරපු බෑග් එක නෙමෙයි එවලා තියෙන්නෙ', negative),
+('පාටක්', 'Color Accuracy', 'වෙනමම පාටක්', negative),
+(NULL, 'Material Quality', 'කිසිම කොලිටි එකක් නැතුව', negative),
+(NULL, 'Overall Satisfaction', 'ගන්න එපා', negative),
+('සල්ලි', 'Price / Value for Money', 'අපරාදෙ', negative),
+('ශිපර් එකත්', 'Closure Type & Quality', 'කිසිම වැඩකට නෑ', negative),
+('ස්ට්‍රැප් එකත්', 'Hardware Quality', 'ඒ වගේ', negative)
+}",Pure_Sinhala,fashion
+60,Girls Fashion New Traveling Bag Cute Office Casual Women Handbags,"Rs. 2,000",5,ඒකනම් සෙට් නෑ ගන්න එපා 🥲🥲 අපරාදේ ගෙන්න ගත්තේ හැබැයි ඉඩ තීනවා ඒත් ඒක හරි නෑ quality na,ඒකනම් සෙට් නෑ ගන්න එපා 🥲🥲 අපරාදේ ගෙන්න ගත්තේ හැබැයි ඉඩ තීනවා ඒත් ඒක හරි නෑ quality na,"{
+(NULL, 'Overall Satisfaction', 'සෙට් නෑ ගන්න එපා', negative),
+(NULL, 'Overall Satisfaction', 'අපරාදේ ගෙන්න ගත්තේ', negative),
+('ඉඩ', 'Fit', 'තීනවා', positive),
+(NULL, 'Material Quality', 'quality na', negative)
+}",Pure_Sinhala,fashion
+61,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",5,ගානට වටිනවා. කොලිටියත් හොඳයි. පැකින් එකත් ලස්සනයි වගේම ඩිලිවරි එකත් සුපිරි. #win,ගානට වටිනවා. කොලිටියත් හොඳයි. පැකින් එකත් ලස්සනයි වගේම ඩිලිවරි එකත් සුපිරි.,"{
+('ගානට', 'Price / Value for Money', 'වටිනවා', positive),
+(NULL, 'Material Quality', 'කොලිටියත් හොඳයි', positive),
+('පැකින් එකත්', 'Delivery', 'ලස්සනයි', positive),
+('ඩිලිවරි එකත්', 'Delivery', 'සුපිරි', positive)
+}",Sinhala_in_English,fashion
+62,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",5,"ඒක ගොඩක් පොඩියි හිතුවට වඩා පොඩියි, හැබැයි වැඩකට ඇති දෙයක්.","ඒක ගොඩක් පොඩියි හිතුවට වඩා පොඩියි, හැබැයි වැඩකට ඇති දෙයක්.","{
+(NULL, 'Size Accuracy', 'ගොඩක් පොඩියි', negative),
+(NULL, 'Size Accuracy', 'හිතුවට වඩා පොඩියි', negative),
+(NULL, 'Ease of Use', 'වැඩකට ඇති දෙයක්', positive)
+}",Sinhala_in_English,fashion
+63,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,මේ product එක නම් ගන්න එපා.කිසිම quality එකක් නෑ.,මේ product එක නම් ගන්න එපා.කිසිම quality එකක් නෑ.,"{
+(NULL, 'Overall Satisfaction', 'ගන්න එපා', negative),
+(NULL, 'Material Quality', 'කිසිම quality එකක් නෑ', negative)
+}",Pure_Sinhala,fashion
+64,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",4,බෑග් එක ගොඩක් පොඩියි.. හැබැයි ඒක ලස්සනයි.,බෑග් එක ගොඩක් පොඩියි.. හැබැයි ඒක ලස්සනයි.,"{
+('බෑග් එක', 'Size Accuracy', 'ගොඩක් පොඩියි', negative),
+(NULL, 'Appearance', 'ලස්සනයි', positive)
+}",Sinhala_in_English,fashion
+65,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",5,හිතුවට වඩා කුඩා bag එකක්.,හිතුවට වඩා කුඩා bag එකක්.,"{
+(NULL, 'Size Accuracy', 'හිතුවට වඩා කුඩා', negative)
+}",Pure_Sinhala,fashion
+66,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",4,මේක චූටි වැඩී,මේක චූටි වැඩී,"{
+(NULL, 'Size Accuracy', 'චූටි වැඩී', negative)
+}",Pure_Sinhala,fashion
+67,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,හිතපු තරම් හොද නෑ ෆෝන් එකවත් දාන්න බෑ ඒත් ලස්සනයි,හිතපු තරම් හොද නෑ ෆෝන් එකවත් දාන්න බෑ ඒත් ලස්සනයි,"{
+(NULL, 'Overall Satisfaction', 'හිතපු තරම් හොද නෑ', negative),
+('ෆෝන් එකවත්', 'Fit', 'දාන්න බෑ', negative),
+(NULL, 'Appearance', 'ලස්සනයි', positive)
+}",Pure_Sinhala,fashion
+68,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",5,me godak hodai lassanai 🥰,මේ ගොඩක් හොදි ලස්සනෛ 🥰,"{
+(NULL, 'Overall Satisfaction', 'ගොඩක් හොදි', positive),
+(NULL, 'Appearance', 'ලස්සනෛ', positive)
+}",Sinhala_in_English,fashion
+69,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,පර්ස් එක නිකම් පැන්සල් කේස් එකක් වගේ හරි පොඩියි. not as shown🙁🙁🙁,පර්ස් එක නිකම් පැන්සල් කේස් එකක් වගේ හරි පොඩියි. not as shown🙁🙁🙁,"{
+(NULL, 'Size Accuracy', 'හරි පොඩියි', negative),
+(NULL, 'Product-Image Consistency', 'not as shown', negative)
+}",Pure_Sinhala,fashion
+70,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,හිතුවට වඩා ගොඩක් පොඩියි.phone එක දාන්න ඉඩ මදි..පොඩ්ඩක් තව ලොකු උනානම් හොදයි..,හිතුවට වඩා ගොඩක් පොඩියි.phone එක දාන්න ඉඩ මදි..පොඩ්ඩක් තව ලොකු උනානම් හොදයි..,"{
+(NULL, 'Size Accuracy', 'හිතුවට වඩා ගොඩක් පොඩියි', negative),
+('phone එක දාන්න ඉඩ', 'Fit', 'මදි', negative)
+}",Pure_Sinhala,fashion
+71,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",2,mama hithuwa wage lokuna meka mobile eke saiisekak wadak naha,මම හිතුව වගේ ලොකුන මේක මොබිලේ එකේ සෛඉසෙකක් වැඩක් නැහැ,"{
+(NULL, 'Size Accuracy', 'මම හිතුව වගේ ලොකුන', negative),
+(NULL, 'Overall Satisfaction', 'වැඩක් නැහැ', negative)
+}",Sinhala_in_English,fashion
+72,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,මෙලෝ වැඩක් නෑ මේක පොඩි එකෙක්ට හොදයි..මේක ගන්න එප,මෙලෝ වැඩක් නෑ මේක පොඩි එකෙක්ට හොදයි..මේක ගන්න එප,"{
+(NULL, 'Overall Satisfaction', 'මෙලෝ වැඩක් නෑ', negative),
+(NULL, 'Size Accuracy', 'පොඩි එකෙක්ට හොදයි', negative),
+(NULL, 'Overall Satisfaction', 'ගන්න එප', negative)
+}",Pure_Sinhala,fashion
+73,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,"වැඩක් නෑ සෙල්ලං බඩු වගේ never order from overseas ,👎😪 this is my 3rd order never again","වැඩක් නෑ සෙල්ලං බඩු වගේ never order from overseas ,👎😪 this is my 3rd order never again","{
+(NULL, 'Overall Satisfaction', 'වැඩක් නෑ', negative),
+(NULL, 'Appearance', 'සෙල්ලං බඩු වගේ', negative)
+}",Pure_Sinhala,fashion
+74,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,කිසිම වැඩක් නෑ phone එකවත් දාන්න බෑ,කිසිම වැඩක් නෑ phone එකවත් දාන්න බෑ,"{
+(NULL, 'Overall Satisfaction', 'කිසිම වැඩක් නෑ', negative),
+('phone එකවත්', 'Fit', 'දාන්න බෑ', negative)
+}",Pure_Sinhala,fashion
+75,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,හරිම පොඩියි...ගනනට වටින්නෙම නෑ....,හරිම පොඩියි...ගනනට වටින්නෙම නෑ....,"{
+(NULL, 'Size Accuracy', 'හරිම පොඩියි', negative),
+('ගනනට', 'Price / Value for Money', 'වටින්නෙම නෑ', negative)
+}",Pure_Sinhala,fashion
+76,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,podi wadi hithuwata wada\n\n,පොඩි වැඩි හිතුවට වැඩ\න\න,"{
+(NULL, 'Size Accuracy', 'පොඩි වැඩි', negative)
+}",Sinhala_in_English,fashion
+77,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",1,වැඩක්ම. නැහැ,වැඩක්ම. නැහැ,"{
+(NULL, 'Overall Satisfaction', 'වැඩක්ම. නැහැ', negative)
+}",Pure_Sinhala,fashion
+78,Mini Pu Fashion Women Shoulder Bag Messenger Bag Designer Luxury Crocodile Pattern Phone Coin Purse Girls Handbag Tote Bag,"Rs. 3,426",2,ගොඩක්ම පොඩියි.,ගොඩක්ම පොඩියි.,"{
+(NULL, 'Size Accuracy', 'ගොඩක්ම පොඩියි', negative)
+}",Sinhala_in_English,fashion
+79,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,eka harima cute harima lassanai  🎀❤ gift ekath ekka podi lassana konda katuwakuth ewala tibba  😘🎀thank you so much ❤,එක හරිම චුටේ හරිම ලස්සනෛ  🎀❤ ගිෆ්ට් එකත් එක්ක පොඩි ලස්සන කොන්ද කටුවකුත් එවල තිබ්බ  😘🎀තැනක් යෞ සෝ මුච් ❤,"{
+(NULL, 'Size Accuracy', 'හරිම චුටේ', negative),
+(NULL, 'Appearance', 'හරිම ලස්සනෛ', positive)
+}",Sinhala_in_English,fashion
+80,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,"niyamai, reddath hondai , hithuvtath vada hondai dear thanks❤️❤️#WIN",නියමි,"{
+(NULL, 'Overall Satisfaction', 'නියමි', positive)
+}",Sinhala_in_English,fashion
+81,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,Hoda bag ekak.. Lassnyi.. Print ekath hoda yi,හොද බග් එකක්.. ලස්සනයි.. ප්‍රින්ට් එකත් හොද යි,"{
+(NULL, 'Overall Satisfaction', 'හොද බග් එකක්', positive),
+(NULL, 'Appearance', 'ලස්සනයි', positive),
+('ප්‍රින්ට් එකත්', 'Design Aesthetic', 'හොද යි', positive)
+}",Sinhala_in_English,fashion
+82,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,හිතුවට වඩා ගොඩක් ලස්සනයි....😍Best,හිතුවට වඩා ගොඩක් ලස්සනයි....😍Best,"{
+(NULL, 'Appearance', 'හිතුවට වඩා ගොඩක් ලස්සනයි', positive),
+(NULL, 'Overall Satisfaction', 'Best', positive)
+}",Pure_Sinhala,fashion
+83,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,හොද නිෂ්පාදනයක්.මං හිතුවට වඩා හොදට තියනවා.බෑග් එක ලස්සනයි.ස්තූතියි ඩරස්,හොද නිෂ්පාදනයක්.මං හිතුවට වඩා හොදට තියනවා.බෑග් එක ලස්සනයි.ස්තූතියි ඩරස්,"{
+(NULL, 'Overall Satisfaction', 'හොද නිෂ්පාදනයක්', positive),
+(NULL, 'Overall Satisfaction', 'හිතුවට වඩා හොදට තියනවා', positive),
+(NULL, 'Appearance', 'බෑග් එක ලස්සනයි', positive)
+}",Pure_Sinhala,fashion
+84,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",4,"Hodai lokuwata thiyenawa bag eka athule,material ekath hodai🥰",හොදි ලොකුවට තියෙනවා බග් එක ඇතුලේ,"{
+(NULL, 'Overall Satisfaction', 'හොදි', positive),
+('ඇතුලේ', 'Fit', 'ලොකුවට තියෙනවා', positive)
+}",Sinhala_in_English,fashion
+85,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,thanks darz💜️💜️,තැන්ක්ස් දර්ළ💜️💜️,"{
+(NULL, 'Overall Satisfaction', 'තැන්ක්ස්', positive)
+}",Sinhala_in_English,fashion
+86,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,හිතුව වගෙ ලස්සනට තිබුනා..ස්තුතිස්තුතියි,හිතුව වගෙ ලස්සනට තිබුනා..ස්තුතිස්තුතියි,"{
+(NULL, 'Appearance', 'හිතුව වගෙ ලස්සනට තිබුනා', positive)
+}",Pure_Sinhala,fashion
+87,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,ගොඩක් ලස්සනයි material එකත් හොඳයි,ගොඩක් ලස්සනයි material එකත් හොඳයි,"{
+(NULL, 'Appearance', 'ගොඩක් ලස්සනයි', positive),
+('material එකත්', 'Material Quality', 'හොඳයි', positive)
+}",Pure_Sinhala,fashion
+88,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,tnx ikmnta hmba una,ත්න්ෂ ඉක්මනට හම්බ උන,"{
+(NULL, 'Delivery', 'ඉක්මනට හම්බ උන', positive)
+}",Sinhala_in_English,fashion
+89,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,වටිනව මේක,වටිනව මේක,"{
+(NULL, 'Price / Value for Money', 'වටිනව', positive)
+}",Pure_Sinhala,fashion
+90,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,bkij,බ්කිජ්,"{
+(NULL, 'Overall Satisfaction', 'බ්කිජ්', positive)
+}",Sinhala_in_English,fashion
+91,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",5,soo nice♥️,සූ නිචේ♥️,"{
+(NULL, 'Appearance', 'සූ නිචේ', positive)
+}",Sinhala_in_English,fashion
+92,"Free Hair Clip Gift Girls' Fashion Tote Bag, Women's Canvas Handbag, Casual Shoulder Bag Large Capacity Shopping Bag, Trendy Ladies' Purse, Everyday Carryall, Stylish Women's Bag, Durable Fabric Tote, College Bag for Girls, Work Handbag,","Rs. 2,290",1,Dunnu ganata sadaranai😊,දුන්නු ගානට සදරනෛ😊,"{
+('දුන්නු ගානට', 'Price / Value for Money', 'සදරනෛ', positive)
+}",Sinhala_in_English,fashion
+93,Women's Crossbody Shoulder Bag Student Shoulder Bag Canvas Bag ins hip hop Girl Canvas Bag Women Messenger Bag,"Rs. 2,942",1,opan,ඕපන්,"{
+(NULL, 'Overall Satisfaction', 'ඕපන්', neutral)
+}",Sinhala_in_English,fashion
+94,Women's Crossbody Shoulder Bag Student Shoulder Bag Canvas Bag ins hip hop Girl Canvas Bag Women Messenger Bag,"Rs. 2,942",5,මේක හොඳ ප්‍රොඩක්ට් එකක්. හිතුවට වඩා ගොඩක් කොලිටි.. මම මේකට ආසයි.,මේක හොඳ ප්‍රොඩක්ට් එකක්. හිතුවට වඩා ගොඩක් කොලිටි.. මම මේකට ආසයි.,"{
+('ප්‍රොඩක්ට් එකක්', 'Product Quality', 'හොඳ', positive),
+(NULL, 'Material Quality', 'හිතුවට වඩා ගොඩක් කොලිටි', positive),
+(NULL, 'Overall Satisfaction', 'මම මේකට ආසයි', positive)
+}",Pure_Sinhala,fashion
+95,Women's Crossbody Shoulder Bag Student Shoulder Bag Canvas Bag ins hip hop Girl Canvas Bag Women Messenger Bag,"Rs. 2,942",5,හොඳ ප්‍රොඩක්ට් එකක්. ඩිලිවරි එකත් වේගවත්. තැන්ක් යූ දරාස්...,හොඳ ප්‍රොඩක්ට් එකක්. ඩිලිවරි එකත් වේගවත්. තැන්ක් යූ දරාස්...,"{
+('ප්‍රොඩක්ට් එකක්', 'Product Quality', 'හොඳ', positive),
+('ඩිලිවරි එකත්', 'Delivery', 'වේගවත්', positive),
+(NULL, 'Overall Satisfaction', 'තැන්ක් යූ දරාස්', positive)
+}",Pure_Sinhala,fashion
+96,Women's Crossbody Shoulder Bag Student Shoulder Bag Canvas Bag ins hip hop Girl Canvas Bag Women Messenger Bag,"Rs. 2,942",5,හිතුවට වඩා ගොඩක් ලස්සනයි ❤️❤️❤️,හිතුවට වඩා ගොඩක් ලස්සනයි ❤️❤️❤️,"{
+(NULL, 'Appearance', 'හිතුවට වඩා ගොඩක් ලස්සනයි', positive)
+}",Pure_Sinhala,fashion
+97,Women's Crossbody Shoulder Bag Student Shoulder Bag Canvas Bag ins hip hop Girl Canvas Bag Women Messenger Bag,"Rs. 2,942",5,ඇත්තටම නයිස්... තැන්ක් යූ දරාස්,ඇත්තටම නයිස්... තැන්ක් යූ දරාස්,"{
+(NULL, 'Appearance', 'ඇත්තටම නයිස්', positive),
+(NULL, 'Overall Satisfaction', 'තැන්ක් යූ දරාස්', positive)
+}",Sinhala_in_English,fashion
+98,Women's Crossbody Shoulder Bag Student Shoulder Bag Canvas Bag ins hip hop Girl Canvas Bag Women Messenger Bag,"Rs. 2,942",5,ඇත්තටම හරිම ලස්සනයි.. තෑන්ක් යූ😍😍❤❤,ඇත්තටම හරිම ලස්සනයි.. තෑන්ක් යූ😍😍❤❤,"{
+(NULL, 'Appearance', 'හරිම ලස්සනයි', positive),
+(NULL, 'Overall Satisfaction', 'තෑන්ක් යූ', positive)
+}",Pure_Sinhala,fashion
+99,Women's Crossbody Shoulder Bag Student Shoulder Bag Canvas Bag ins hip hop Girl Canvas Bag Women Messenger Bag,"Rs. 2,942",4,සුපිරි.. තැන්ක්ස්,සුපිරි.. තැන්ක්ස්,"{
+(NULL, 'Overall Satisfaction', 'සුපෙර්බ්', positive)
+}",Pure_Sinhala,fashion
+100,Cute Ladies Hand Bags - Fashionable Shoulder Bags - Hand Bag for Girl - Hand Bag for Women - Woman Handbags,"Rs. 2,690",5,හරිම cute අනේ බෑග් ඒක.. i love it...,හරිම cute අනේ බෑග් ඒක.. i love it...,"{
+(NULL, 'Appearance', 'හරිම cute', positive),
+(NULL, 'Overall Satisfaction', 'i love it', positive)
+}",Pure_Sinhala,fashion
+101,Cute Ladies Hand Bags - Fashionable Shoulder Bags - Hand Bag for Girl - Hand Bag for Women - Woman Handbags,"Rs. 2,690",5,"වාව් ලස්සන බෑග් එකක්, මම මේකට ආසයි 😍 කිසිම ඩැමේජ් එකක් නැහැ 😊 දෙවි පිහිටයි","වාව් ලස්සන බෑග් එකක්, මම මේකට ආසයි 😍 කිසිම ඩැමේජ් එකක් නැහැ 😊 දෙවි පිහිටයි","{
+('බෑග් එකක්', 'Appearance', 'ලස්සන', positive),
+(NULL, 'Overall Satisfaction', 'මම මේකට ආසයි', positive),
+(NULL, 'Product Quality', 'කිසිම ඩැමේජ් එකක් නැහැ', positive)
+}",Pure_Sinhala,fashion
+102,Cute Ladies Hand Bags - Fashionable Shoulder Bags - Hand Bag for Girl - Hand Bag for Women - Woman Handbags,"Rs. 2,690",1,Me bag 1 hari na...pati 2 th kotai...,මේ බග් 1 හරි න...පටි 2 ත් කොටි...,"{
+(NULL, 'Overall Satisfaction', 'හරි න', negative),
+('පටි 2 ත්', 'Hardware Quality', 'කොටි', negative)
+}",Sinhala_in_English,fashion
+103,Free Water Bottle with AquaTrend Shoulder Bag Women's Shoulder Bags Fashion Girls Handbag Casual Formal Women's Shoulder Bags Fashion Girls Handbag Casual Formal Large Bag Zipper Big Compartment,"Rs. 4,500",5,wooow,වූඔව්,"{
+(NULL, 'Overall Satisfaction', 'වූඔව්', positive)
+}",Sinhala_in_English,fashion
+104,Free Water Bottle with AquaTrend Shoulder Bag Women's Shoulder Bags Fashion Girls Handbag Casual Formal Women's Shoulder Bags Fashion Girls Handbag Casual Formal Large Bag Zipper Big Compartment,"Rs. 4,500",1,"ගන්න එපා, ගැලපෙන නූල් වලින් වත් මහලා නෑ,","ගන්න එපා, ගැලපෙන නූල් වලින් වත් මහලා නෑ,","{
+(NULL, 'Overall Satisfaction', 'ගන්න එපා', negative),
+('නූල් වලින්', 'Stitching & Seams Quality', 'මහලා නෑ', negative)
+}",Pure_Sinhala,fashion
+105,Cute Ladies Hand Bags with Twisted Strips - Fashionable Shoulder Bags - Hand Bag for Girl - Hand Bag for Women - Woman Handbags,"Rs. 2,850",5,color wenas,චොලෝර් වෙනස්,"{
+('චොලෝර්', 'Color Accuracy', 'වෙනස්', negative)
+}",Sinhala_in_English,fashion
+106,Girls Corduroy Messenger Bag Canvas Small Bag Japanese Harajuku Student Shoulder Bag Travel Handbag,"Rs. 3,386",5,බොහොම ස්තූතියි. මම මේ බෑග් එකට කැමතියි.❤ හොඳ ප්‍රොඩක්ට් එකක්.❤😍,බොහොම ස්තූතියි. මම මේ බෑග් එකට කැමතියි.❤ හොඳ ප්‍රොඩක්ට් එකක්.❤😍,"{
+(NULL, 'Overall Satisfaction', 'බොහොම ස්තූතියි', positive),
+(NULL, 'Overall Satisfaction', 'කැමතියි', positive),
+(NULL, 'Product Quality', 'හොඳ', positive)
+}",Sinhala_in_English,fashion
+107,Girls Corduroy Messenger Bag Canvas Small Bag Japanese Harajuku Student Shoulder Bag Travel Handbag,"Rs. 3,386",5,harim lassani .harim hurubuti chuti bag ekak,හරිම ලස්සනි .හරිම හුරුබුටි චුටි බග් එකක්,"{
+(NULL, 'Appearance', 'හරිම ලස්සනි', positive),
+(NULL, 'Appearance', 'හුරුබුටි', positive),
+(NULL, 'Size Accuracy', 'චුටි', negative)
+}",Sinhala_in_English,fashion
+108,Girls Corduroy Messenger Bag Canvas Small Bag Japanese Harajuku Student Shoulder Bag Travel Handbag,"Rs. 3,386",5,harima lassanai 👍♥,හරිම ලස්සනෛ 👍♥,"{
+(NULL, 'Appearance', 'හරිම ලස්සනෛ', positive)
+}",Sinhala_in_English,fashion
+109,Girls Corduroy Messenger Bag Canvas Small Bag Japanese Harajuku Student Shoulder Bag Travel Handbag,"Rs. 3,386",1,Hodai eth photo eke widiyata loku nehe godak podi,හොදි එත් ෆොටෝ එකේ විදියට ලොකු නෙහෙ ගොඩක් පොඩි,"{
+(NULL, 'Overall Satisfaction', 'හොදි', positive),
+(NULL, 'Product-Image Consistency', 'ෆොටෝ එකේ විදියට ලොකු නෙහෙ', negative),
+(NULL, 'Size Accuracy', 'ගොඩක් පොඩි', negative)
+}",Sinhala_in_English,fashion
+110,Girls Corduroy Messenger Bag Canvas Small Bag Japanese Harajuku Student Shoulder Bag Travel Handbag,"Rs. 3,386",1,Godak podine meka hithapu tharam loku na,ගොඩක් පොදිනේ මේක හිතපු තරම් ලොකු න,"{
+(NULL, 'Size Accuracy', 'ගොඩක් පොදිනේ', negative),
+(NULL, 'Size Accuracy', 'හිතපු තරම් ලොකු න', negative)
+}",Sinhala_in_English,fashion
+111,Girls Corduroy Messenger Bag Canvas Small Bag Japanese Harajuku Student Shoulder Bag Travel Handbag,"Rs. 3,386",2,godak podi bag ekak..unsatisfied,ගොඩක් පොඩි බග් එකක්..උන්සතිස්ෆිඑද්,"{
+(NULL, 'Size Accuracy', 'ගොඩක් පොඩි', negative),
+(NULL, 'Overall Satisfaction', 'උන්සතිස්ෆිඑද්', negative)
+}",Sinhala_in_English,fashion
+112,Free Water Bottle with AquaTrend Shoulder Bag Women's Shoulder Bags Fashion Girls Handbag Casual Formal Women's Shoulder Bags Fashion Girls Handbag Casual Formal Large Bag Zipper Big Compartment,"Rs. 2,500",5,wooow,වූඔව්,"{
+(NULL, 'Overall Satisfaction', 'වූඔව්', positive)
+}",Sinhala_in_English,fashion
+113,Free Water Bottle with AquaTrend Shoulder Bag Women's Shoulder Bags Fashion Girls Handbag Casual Formal Women's Shoulder Bags Fashion Girls Handbag Casual Formal Large Bag Zipper Big Compartment,"Rs. 2,500",1,"ගන්න එපා, ගැලපෙන නූල් වලින් වත් මහලා නෑ,","ගන්න එපා, ගැලපෙන නූල් වලින් වත් මහලා නෑ,","{
+(NULL, 'Overall Satisfaction', 'ගන්න එපා', negative),
+('නූල් වලින්', 'Stitching & Seams Quality', 'මහලා නෑ', negative)
+}",Pure_Sinhala,fashion
+114,"Adult sneakers, women's light running shoes, net shoes, comfortable soft soled sneakers, women's breathable","Rs. 6,350",5,ඒක හරිම කන්ෆටබල් මාරම ලස්සනයි මේ ගානට පාඩු නෑ ඉක්මනින් ඩිලිවත් කරා මම ගත්ත සයිස් එක 40,ඒක හරිම කන්ෆටබල් මාරම ලස්සනයි මේ ගානට පාඩු නෑ ඉක්මනින් ඩිලිවත් කරා මම ගත්ත සයිස් එක 40,"{
+(NULL, 'Comfort', 'හරිම කන්ෆටබල්', positive),
+(NULL, 'Appearance', 'මාරම ලස්සනයි', positive),
+('මේ ගානට', 'Price / Value for Money', 'පාඩු නෑ', positive),
+(NULL, 'Delivery', 'ඉක්මනින් ඩිලිවත් කරා', positive),
+('සයිස් එක 40', 'Size Accuracy', 'ගත්ත සයිස් එක', positive)
+}",Pure_Sinhala,fashion
+115,"Adult sneakers, women's light running shoes, net shoes, comfortable soft soled sneakers, women's breathable","Rs. 6,350",5,E dokshoo දෙක නම් මාර ලස්ස අයි 🌸🤍 ඔනි කෙනෙක් බය නැතුම් ගන්න 🌿🌼🪻,E dokshoo දෙක නම් මාර ලස්ස අයි 🌸🤍 ඔනි කෙනෙක් බය නැතුම් ගන්න 🌿🌼🪻,"{
+(NULL, 'Appearance', 'මාර ලස්ස අයි', positive),
+(NULL, 'Overall Satisfaction', 'බය නැතුම් ගන්න', positive)
+}",Pure_Sinhala,fashion
+116,"Adult sneakers, women's light running shoes, net shoes, comfortable soft soled sneakers, women's breathable","Rs. 6,350",5,ගොඩාක් හොඳයි සපත්තු දෙක,ගොඩාක් හොඳයි සපත්තු දෙක,"{
+(NULL, 'Overall Satisfaction', 'ගොඩාක් හොඳයි', positive)
+}",Pure_Sinhala,fashion
+117,"Adult sneakers, women's light running shoes, net shoes, comfortable soft soled sneakers, women's breathable","Rs. 6,350",5,shoes deka hodai. e ganata padu na.👍,ශෝඑස් දෙක හොදි. ඒ ගානට පාඩු න.👍,"{
+(NULL, 'Overall Satisfaction', 'හොදි', positive),
+('ඒ ගානට', 'Price / Value for Money', 'පාඩු න', positive)
+}",Sinhala_in_English,fashion
+118,"Adult sneakers, women's light running shoes, net shoes, comfortable soft soled sneakers, women's breathable","Rs. 6,350",5,super quality.no words to explain,සුපෙර් කුඅලිත්ය.නො වොර්ඩ්ස් ටො එෂ්ප්ලෛන්,"{
+(NULL, 'Material Quality', 'සුපෙර් කුඅලිත්ය', positive),
+(NULL, 'Overall Satisfaction', 'නො වොර්ඩ්ස් ටො එෂ්ප්ලෛන්', positive)
+}",Sinhala_in_English,fashion
+119,"Adult sneakers, women's light running shoes, net shoes, comfortable soft soled sneakers, women's breathable","Rs. 6,350",5,කොලිටිය හොඳයි.,කොලිටිය හොඳයි.,"{
+(NULL, 'Material Quality', 'කොලිටිය හොඳයි', positive)
+}",Code_Mixed,fashion
+120,"Adult sneakers, women's light running shoes, net shoes, comfortable soft soled sneakers, women's breathable","Rs. 6,350",5,ඇත්තටම නයිස්... තැන්ක් යූ දරාස්,ඇත්තටම නයිස්... තැන්ක් යූ දරාස්,"{
+(NULL, 'Appearance', 'ඇත්තටම නයිස්', positive)
+}",Pure_Sinhala,fashion
+121,"Adult sneakers, women's light running shoes, net shoes, comfortable soft soled sneakers, women's breathable","Rs. 6,350",5,සුපිරි 👌,සුපිරි 👌,"{
+(NULL, 'Overall Satisfaction', 'සුපිරි', positive)
+}",Pure_Sinhala,fashion
+122,"Adult sneakers, women's light running shoes, net shoes, comfortable soft soled sneakers, women's breathable","Rs. 6,350",5,නයිස්,නයිස්,"{
+(NULL, 'Overall Satisfaction', 'නයිස්', positive)
+}",Sinhala_in_English,fashion
+123,DSI SUPERSPORT BOYS SHOES BLACK,"Rs. 3,099",5,makanam supiriyak  thank you daraz,මකනම් සුපිරියක්  තැනක් යෞ දරළ්,"{
+(NULL, 'Overall Satisfaction', 'සුපිරියක්', positive)
+}",Sinhala_in_English,fashion
+124,DSI SUPERSPORT BOYS SHOES BLACK,"Rs. 3,099",5,හොඳයි... ස්තූතියි.,හොඳයි... ස්තූතියි.,"{
+(NULL, 'Product Quality', 'හොඳයි', positive),
+(NULL, 'Overall Satisfaction', 'ස්තූතියි', positive)
+}",Pure_Sinhala,fashion
+125,DSI SUPERSPORT BOYS SHOES BLACK,"Rs. 3,099",5,Good. Ty,ගූඩ්. ත්ය්,"{
+(NULL, 'Overall Satisfaction', 'ගූඩ්', positive)
+}",Sinhala_in_English,fashion
+126,Samsons Men Pumps Shoes Black,"Rs. 1,899",5,"ඕනෑ ම රබර් සපත්තු ජෝඩුවක් කකුලට ගානට ෆිට් වෙන්න ඒත් එක්කම අමාරුවක් නැතිව දාන්න නම් අඩුම ගානේ නො 2 කින් වත් වැඩිපුර ඉඩ තියලා ගන්න.මගේ කකුලේ size එක 8 ඒත් මං ගත්තේ 10. කකුලට කිසිම අමාරුවක් නෑ. හරිම පහසුයි. size එක ලොකු වුණා කියලා සපත්තු දෙක ගැලවෙන්නේ ත් නෑ. රබර් සපත්තු වලින් එන ගඳ සාපේක්ෂව මේකේ ටිකක් අඩුයි. ඒත් නැත්තෙමත් නෑ. අඩිය ට දාලා තියෙන කහ පාට කූෂන් පැඩ් එක ගැලවෙනවා ටික දවසක් යද්දි. එක ගලවලා ගම් ගාල අලවන්න වුණා ඒ හන්ද. වෙන නම් අවුලක් නෑ දැනට. පොදු ප්‍රවාහන ය ,bike පාවිච්චි කරන අයට මේ සපත්තු දෙක නියමයි. මඩ ඔයිල් දූවිලි පොඩි රෙද්දක් තෙමලා පිහිදපු ගමන් අලුතෙන් ගත්ත වගේ. වෙන රබර් සපත්තු වලට වඩා DSI එකේ quality එකක් තියෙනවා.","ඕනෑ ම රබර් සපත්තු ජෝඩුවක් කකුලට ගානට ෆිට් වෙන්න ඒත් එක්කම අමාරුවක් නැතිව දාන්න නම් අඩුම ගානේ නො 2 කින් වත් වැඩිපුර ඉඩ තියලා ගන්න.මගේ කකුලේ size එක 8 ඒත් මං ගත්තේ 10. කකුලට කිසිම අමාරුවක් නෑ. හරිම පහසුයි. size එක ලොකු වුණා කියලා සපත්තු දෙක ගැලවෙන්නේ ත් නෑ. රබර් සපත්තු වලින් එන ගඳ සාපේක්ෂව මේකේ ටිකක් අඩුයි. ඒත් නැත්තෙමත් නෑ. අඩිය ට දාලා තියෙන කහ පාට කූෂන් පැඩ් එක ගැලවෙනවා ටික දවසක් යද්දි. එක ගලවලා ගම් ගාල අලවන්න වුණා ඒ හන්ද. වෙන නම් අවුලක් නෑ දැනට. පොදු ප්‍රවාහන ය ,bike පාවිච්චි කරන අයට මේ සපත්තු දෙක නියමයි. මඩ ඔයිල් දූවිලි පොඩි රෙද්දක් තෙමලා පිහිදපු ගමන් අලුතෙන් ගත්ත වගේ. වෙන රබර් සපත්තු වලට වඩා DSI එකේ quality එකක් තියෙනවා.","{
+(NULL, 'Fit', 'ගානට ෆිට් වෙන්න', positive),
+(NULL, 'Comfort', 'කිසිම අමාරුවක් නෑ. හරිම පහසුයි', positive),
+('අඩිය ට දාලා තියෙන කහ පාට කූෂන් පැඩ් එක', 'Construction Quality', 'ගැලවෙනවා', negative),
+(NULL, 'Material Quality', 'quality එකක් තියෙනවා', positive)
+}",Pure_Sinhala,fashion
+127,Fashion Shoes Sneakers for Men & Women,"Rs. 6,500",5,කියන්න වරදක් නෑ comfortable සුපිරියි 💕 highly recommend.,කියන්න වරදක් නෑ comfortable සුපිරියි 💕 highly recommend.,"{
+(NULL, 'Overall Satisfaction', 'කියන්න වරදක් නෑ', positive),
+(NULL, 'Comfort', 'comfortable', positive),
+(NULL, 'Overall Satisfaction', 'සුපිරියි', positive),
+(NULL, 'Overall Satisfaction', 'highly recommend', positive)
+}",Pure_Sinhala,fashion
+128,Fashion Shoes Sneakers for Men & Women,"Rs. 6,500",5,වැඩක්ම නැහැ 😡😡😡,වැඩක්ම නැහැ 😡😡😡,"{
+(NULL, 'Overall Satisfaction', 'වැඩක්ම නැහැ', negative)
+}",Pure_Sinhala,fashion
+129,Fashion Shoes Sneakers for Men & Women,"Rs. 6,500",5,Recived,රෙචිවෙඩ්,"{
+(NULL, 'Delivery', 'රෙචිවෙඩ්', positive)
+}",Sinhala_in_English,fashion
+130,White Sneakers Man Vulcanized Sneakers Male Comfortable High Top Shoes Men Autumn Spring 2022 Fashion Mens Shoes Vulcanize Shoes,"Rs. 27,328",5,මෙකනම් සුපිරියක් තමයි මගෙ කකුලෙ ගානටම තිබ්බා ආයෙ කතා දෙකක් නැ,මෙකනම් සුපිරියක් තමයි මගෙ කකුලෙ ගානටම තිබ්බා ආයෙ කතා දෙකක් නැ,"{
+(NULL, 'Overall Satisfaction', 'සුපිරියක්', positive),
+('කකුලෙ ගානටම', 'Fit', 'තිබ්බා', positive)
+}",Pure_Sinhala,fashion
+131,White Sneakers Man Vulcanized Sneakers Male Comfortable High Top Shoes Men Autumn Spring 2022 Fashion Mens Shoes Vulcanize Shoes,"Rs. 27,328",5,this is a good shoe. මේක සුපිරිම සපත්තුවක් බය නැතුව ගන්න හොදම collity එකක් එවලා තිබ්බා.. thank you daraz සෙල්ලෙර්ස්... ❤️❤️❤️,this is a good shoe. මේක සුපිරිම සපත්තුවක් බය නැතුව ගන්න හොදම collity එකක් එවලා තිබ්බා.. thank you daraz සෙල්ලෙර්ස්... ❤️❤️❤️,"{
+(NULL, 'Overall Satisfaction', 'good shoe', positive),
+(NULL, 'Overall Satisfaction', 'සුපිරිම සපත්තුවක්', positive),
+(NULL, 'Material Quality', 'හොදම collity', positive)
+}",Pure_Sinhala,fashion
+132,White Sneakers Man Vulcanized Sneakers Male Comfortable High Top Shoes Men Autumn Spring 2022 Fashion Mens Shoes Vulcanize Shoes,"Rs. 27,328",5,lassanai godak eka,ලස්සනෛ ගොඩක් එක,"{
+(NULL, 'Appearance', 'ලස්සනෛ ගොඩක්', positive)
+}",Sinhala_in_English,fashion
+133,White Sneakers Man Vulcanized Sneakers Male Comfortable High Top Shoes Men Autumn Spring 2022 Fashion Mens Shoes Vulcanize Shoes,"Rs. 27,328",5,පට්ටම කොලිටි. නියමයි❤️‍🔥😍,පට්ටම කොලිටි. නියමයි❤️‍🔥😍,"{
+(NULL, 'Material Quality', 'පට්ටම කොලිටි', positive),
+(NULL, 'Overall Satisfaction', 'නියමයි', positive)
+}",Pure_Sinhala,fashion
+134,New Spring Soft Sole Running for Men,"Rs. 15,967",5,thank you darz..ගොඩක් හොදයි බය නැතුව ගන්න.එලටම තියෙනවා..,thank you darz..ගොඩක් හොදයි බය නැතුව ගන්න.එලටම තියෙනවා..,"{
+(NULL, 'Overall Satisfaction', 'ගොඩක් හොදයි', positive),
+(NULL, 'Overall Satisfaction', 'එලටම තියෙනවා', positive)
+}",Pure_Sinhala,fashion
+135,New Spring Soft Sole Running for Men,"Rs. 15,967",5,මම මෙ oder එකට retern request එකක් ද්ඇම්ම මට එක හැකි ඉක්මනින් අවලන්ගු කරගන්න ඕනි.,මම මෙ oder එකට retern request එකක් ද්ඇම්ම මට එක හැකි ඉක්මනින් අවලන්ගු කරගන්න ඕනි.,"{
+(NULL, 'Overall Satisfaction', 'retern request එකක් ද්ඇම්ම', negative)
+}",Pure_Sinhala,fashion
+136,New Spring Soft Sole Running for Men,"Rs. 15,967",5,Supiri meka ganna kisi prshyak na habyi harima pata newi ee unta ekth lassni good...,සුපිරි මේක ගන්න කිසි ප්ර්ශ්යක් න හැබයි හරිම පට නෙවි ඊ උන්ට එකත් ලස්ස්නි ගූඩ්...,"{
+(NULL, 'Overall Satisfaction', 'කිසි ප්ර්ශ්යක් න', positive),
+('පට', 'Color Accuracy', 'හරිම පට නෙවි', negative),
+(NULL, 'Appearance', 'ලස්ස්නි', positive),
+(NULL, 'Overall Satisfaction', 'ගූඩ්', positive)
+}",Sinhala_in_English,fashion
+137,New Spring Soft Sole Running for Men,"Rs. 15,967",5,හොඳයි අවුලක් නෑ .හොදට තියෙනවා.,හොඳයි අවුලක් නෑ .හොදට තියෙනවා.,"{
+(NULL, 'Overall Satisfaction', 'හොඳයි', positive),
+(NULL, 'Overall Satisfaction', 'හොදට තියෙනවා', positive)
+}",Pure_Sinhala,fashion
+138,New Spring Soft Sole Running for Men,"Rs. 15,967",5,සුපිරි 👍 ගෙන්නන්න වටිනවා,සුපිරි 👍 ගෙන්නන්න වටිනවා,"{
+(NULL, 'Overall Satisfaction', 'සුපිරි', positive),
+(NULL, 'Price / Value for Money', 'ගෙන්නන්න වටිනවා', positive)
+}",Pure_Sinhala,fashion
+139,New Spring Soft Sole Running for Men,"Rs. 15,967",5,pettah wala 3000/= thibba,පෙට්ටැහැ වල 3000/= තිබ්බ,"{
+(NULL, 'Price / Value for Money', 'පෙට්ටැහැ වල 3000/= තිබ්බ', neutral)
+}",Sinhala_in_English,fashion
+140,New Spring Soft Sole Running for Men,"Rs. 15,967",5,supiriyt thibba,සුපිරිය්ට් තිබ්බ,"{
+(NULL, 'Overall Satisfaction', 'සුපිරිය්ට් තිබ්බ', positive)
+}",Sinhala_in_English,fashion
+141,New Spring Soft Sole Running for Men,"Rs. 15,967",2,appo wedakma ne    sathiyai   use kare,අප්පෝ වෙදකම නේ    සතියි   උසේ කරේ,"{
+(NULL, 'Durability', 'සතියි උසේ කරේ', negative),
+(NULL, 'Overall Satisfaction', 'අප්පෝ වෙදකම නේ', negative)
+}",Sinhala_in_English,fashion
+142,Running canvas shoes men's tide Boys shoes spring new leisure sports shoes,"Rs. 14,288",5,ammo me deka maarai super වැඩ්ක් නැ kiyl බොරු dann epa hoda de agayann පුරුදු wenn lassanai meka,ammo me deka maarai super වැඩ්ක් නැ kiyl බොරු dann epa hoda de agayann පුරුදු wenn lassanai meka,"{
+(NULL, 'Overall Satisfaction', 'maarai super', positive),
+(NULL, 'Appearance', 'lassanai', positive)
+}",Pure_Sinhala,fashion
+143,Running canvas shoes men's tide Boys shoes spring new leisure sports shoes,"Rs. 14,288",5,mee ganata watinwa 😌😌,මී ගානට වටිනවා 😌😌,"{
+('මී ගානට', 'Price / Value for Money', 'වටිනවා', positive)
+}",Sinhala_in_English,fashion
+144,Running canvas shoes men's tide Boys shoes spring new leisure sports shoes,"Rs. 14,288",5,කිසිම වැඩක් නැ.චාටර්,කිසිම වැඩක් නැ.චාටර්,"{
+(NULL, 'Overall Satisfaction', 'වැඩක් නැ', negative),
+(NULL, 'Overall Satisfaction', 'චාටර්', negative)
+}",Pure_Sinhala,fashion
+145,Running canvas shoes men's tide Boys shoes spring new leisure sports shoes,"Rs. 14,288",1,වැඩක් නැ ගන්න එපා,වැඩක් නැ ගන්න එපා,"{
+(NULL, 'Overall Satisfaction', 'වැඩක් නැ ගන්න එපා', negative)
+}",Pure_Sinhala,fashion
+146,Running canvas shoes men's tide Boys shoes spring new leisure sports shoes,"Rs. 14,288",1,"meka ganna epa.shoes deke feet,4to eke wage naha.anika sathi dekakin withara adiya hil una.kawuruth ganna epa me deka.",මේක ගන්න එපා.ශෝඑස් දෙකේ ෆීට්,"{ (NULL, 'Overall Satisfaction', 'ගන්න එපා', negative), ('ෆීට්', 'Fit', 'NULL', neutral) }",Sinhala_in_English,fashion
+147,Running canvas shoes men's tide Boys shoes spring new leisure sports shoes,"Rs. 14,288",2,මේකේ තියන පෙනුම තරම් කොලිටි හොඳ නැහැ. හරිම සැහැල්ලුයි ඒ වගේම ශක්තිමත් භාවයෙන් ඉතාමත් අඩුයි. කියන පෙනුම තරමට හොඳ දෙයක් නෙමේ,මේකේ තියන පෙනුම තරම් කොලිටි හොඳ නැහැ. හරිම සැහැල්ලුයි ඒ වගේම ශක්තිමත් භාවයෙන් ඉතාමත් අඩුයි. කියන පෙනුම තරමට හොඳ දෙයක් නෙමේ,"{
+(NULL, 'Material Quality', 'කොලිටි හොඳ නැහැ', negative),
+(NULL, 'Weight', 'හරිම සැහැල්ලුයි', positive),
+('ශක්තිමත් භාවයෙන්', 'Durability', 'ඉතාමත් අඩුයි', negative),
+('පෙනුම තරමට', 'Appearance', 'හොඳ දෙයක් නෙමේ', negative)
+}",Pure_Sinhala,fashion
+148,Ankle Sneakers for men Casual Boys Shoes,"Rs. 7,500",5,පට්ටම සුපිරි සපත්තු දෙකක් හැබැයි ඇවිදිනවනම් පොඩ්ඩක් පුරුදු වෙන්න වෙනවා 😜🤣 ගෙනල්ල දුන්න කෙනත් හොද කරුණාවන්ත කෙනෙක් ඉක්මනට order එකත් ආවා සපත්තු දෙකත් quality,පට්ටම සුපිරි සපත්තු දෙකක් හැබැයි ඇවිදිනවනම් පොඩ්ඩක් පුරුදු වෙන්න වෙනවා 😜🤣 ගෙනල්ල දුන්න කෙනත් හොද කරුණාවන්ත කෙනෙක් ඉක්මනට order එකත් ආවා සපත්තු දෙකත් quality,"{
+(NULL, 'Overall Satisfaction', 'පට්ටම සුපිරි', positive),
+(NULL, 'Comfort', 'ඇවිදිනවනම් පොඩ්ඩක් පුරුදු වෙන්න වෙනවා', negative),
+(NULL, 'Delivery', 'ඉක්මනට order එකත් ආවා', positive),
+(NULL, 'Material Quality', 'quality', positive)
+}",Pure_Sinhala,fashion
+149,Ankle Sneakers for men Casual Boys Shoes,"Rs. 7,500",5,"👍👍සුපිරි  පාවිච්චි කරන්ට පුලුවන් .. big  ෆොල්ඩ් අදින කට්ටියට,නම් සුපිරි..","👍👍සුපිරි  පාවිච්චි කරන්ට පුලුවන් .. big  ෆොල්ඩ් අදින කට්ටියට,නම් සුපිරි..","{
+(NULL, 'Overall Satisfaction', 'සුපිරි', positive),
+(NULL, 'Ease of Use', 'පාවිච්චි කරන්ට පුලුවන්', positive)
+}",Pure_Sinhala,fashion
+150,Spring Men's Shoes Summer Breathable Mesh 2025 Sports Running Leisure Increased Summer Dad Fashion Shoes,"Rs. 8,999",5,හරිම සයිස් එකෙන් ආවා කොලිටියට තියෙනවා පොටෝ එකේ තියෙනවා වගේම❤️,හරිම සයිස් එකෙන් ආවා කොලිටියට තියෙනවා පොටෝ එකේ තියෙනවා වගේම❤️,"{
+('සයිස් එකෙන්', 'Size Accuracy', 'හරිම', positive),
+(NULL, 'Material Quality', 'කොලිටියට තියෙනවා', positive),
+('පොටෝ එකේ', 'Product-Image Consistency', 'තියෙනවා වගේම', positive)
+}",Pure_Sinhala,fashion
+151,New fashion canvas tide bishoes fly woven men's running shoes casual sports boys shoes,"Rs. 11,327",5,ඇත්තටම ගොඩක් හොඳ සපත්තු දෙකක්.Recommended❤️,ඇත්තටම ගොඩක් හොඳ සපත්තු දෙකක්.Recommended❤️,"{
+(NULL, 'Overall Satisfaction', 'ගොඩක් හොඳ', positive),
+(NULL, 'Overall Satisfaction', 'Recommended', positive)
+}",Pure_Sinhala,fashion
+152,New fashion canvas tide bishoes fly woven men's running shoes casual sports boys shoes,"Rs. 11,327",5,හොඳ ප්‍රොඩක්ට් එකක්,හොඳ ප්‍රොඩක්ට් එකක්,"{
+(NULL, 'Product Quality', 'හොඳ ප්‍රොඩක්ට් එකක්', positive)
+}",Sinhala_in_English,fashion

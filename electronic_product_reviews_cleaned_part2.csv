@@ -1,0 +1,270 @@
+sentence_id,product_name,price,rating,review,cleaned_review,aspect,review_type,category
+1,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,මේක මරු හැබැයි එබව්ට් එකේ තියෙන්නේ t900 ultra 2 kiyala හැබැයි හොදයි බැට්රිය දවස් 2 තියෙ thaks daraz❤️❤️,මේක මරු හැබැයි එබව්ට් එකේ තියෙන්නේ t900 ultra 2 kiyala හැබැයි හොදයි බැට්රිය දවස් 2 තියෙ thaks daraz❤️❤️,"{
+(NULL, 'Overall Satisfaction', 'මේක මරු', positive),
+('NULL', 'Product Quality', 'එබව්ට් එකේ තියෙන්නේ t900 ultra 2 kiyala', neutral),
+('බැට්රිය', 'Battery Life', 'දවස් 2 තියෙ', positive),
+(NULL, 'Overall Satisfaction', 'thaks daraz❤️❤️', positive)
+}",Pure_Sinhala,electronic
+2,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,super nice ඇතටම නියමයි කියන්න වචන නැ,super nice ඇතටම නියමයි කියන්න වචන නැ,"{ (NULL, 'Overall Satisfaction', 'super nice ඇතටම නියමයි කියන්න වචන නැ', positive) }",Pure_Sinhala,electronic
+3,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,"🔥 මේක අනිවාර්යෙන්ම ගන්න. දවස් තුනෙන් ආවා. කියන්න කිසි වරදක් නෑ. පට්ටම වොච් එක features ගොඩක් තියෙනවා. ගොඩක් ලොකු නෑ අතට ගානට තියෙනවා.aniwarenma ganna.thank u daraz,seller❤️🔥👍","🔥 මේක අනිවාර්යෙන්ම ගන්න. දවස් තුනෙන් ආවා. කියන්න කිසි වරදක් නෑ. පට්ටම වොච් එක features ගොඩක් තියෙනවා. ගොඩක් ලොකු නෑ අතට ගානට තියෙනවා.aniwarenma ganna.thank u daraz,seller❤️🔥👍","{
+(NULL, 'Overall Satisfaction', 'මේක අනිවාර්යෙන්ම ගන්න', positive),
+(NULL, 'Delivery Experience', 'දවස් තුනෙන් ආවා', positive),
+(NULL, 'Overall Satisfaction', 'කියන්න කිසි වරදක් නෑ', positive),
+('වොච් එක', 'Performance', 'features ගොඩක් තියෙනවා', positive),
+(NULL, 'Portability (Size & Weight)', 'ගොඩක් ලොකු නෑ අතට ගානට තියෙනවා', positive),
+(NULL, 'Overall Satisfaction', 'aniwarenma ganna thank u daraz,seller❤️🔥👍', positive),
+
+}",Pure_Sinhala,electronic
+4,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,ගොඩක් හොදට පැක් කරල තිබුණා. කියන තරම් වරදකුත් නෑ .දවස් තුනෙන් ගෙදරටම ආවා. ගොඩක් හොඳ features තියනවා ගන්ට නියම බඩුව. I recommend this smart watch.,ගොඩක් හොදට පැක් කරල තිබුණා. කියන තරම් වරදකුත් නෑ .දවස් තුනෙන් ගෙදරටම ආවා. ගොඩක් හොඳ features තියනවා ගන්ට නියම බඩුව. I recommend this smart watch.,"{
+(NULL, 'Packaging', 'ගොඩක් හොදට පැක් කරල තිබුණා', positive),
+(NULL, 'Overall Satisfaction', 'කියන තරම් වරදකුත් නෑ', positive),
+(NULL, 'Delivery Experience', 'දවස් තුනෙන් ගෙදරටම ආවා', positive),
+('features', 'Performance', 'ගොඩක් හොඳ features තියනවා', positive),
+(NULL, 'Overall Satisfaction', 'ගන්ට නියම බඩුව. I recommend this smart watch', positive)
+}",Pure_Sinhala,electronic
+5,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,දැන් මන් මාස 2ක් විතර පාවිච්චි කලා කිසිම අවුලක් නෑ. බැටරි එක දවස් 2ක් වගේ තියෙනවා.,දැන් මන් මාස 2ක් විතර පාවිච්චි කලා කිසිම අවුලක් නෑ. බැටරි එක දවස් 2ක් වගේ තියෙනවා.,"{
+(NULL, 'Reliability', 'මාස 2ක් විතර පාවිච්චි කලා කිසිම අවුලක් නෑ', positive),
+('බැටරි එක', 'Battery Life', 'දවස් 2ක් වගේ තියෙනවා', positive)
+}",Pure_Sinhala,electronic
+6,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,#win මේකනම් සුපිරි දවස් දෙකෙන් හම්බුනා,#win මේකනම් සුපිරි දවස් දෙකෙන් හම්බුනා,"{ (NULL, 'Delivery Experience', '#win මේකනම් සුපිරි දවස් දෙකෙන් හම්බුනා', positive) }",Pure_Sinhala,electronic
+7,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,patta watch ekk.supiri ganata watinw.kisi awlak nathuwa me seller gen buy karanna.seller quality,පට්ට වට්ච් එකක්.සුපිරි ගානට වටින්ව්.කිසි අව්ලක් නැතුව මේ සෙල්ලෙර් ගෙන් බුය් කරන්න.සෙල්ලෙර් කුඅලිත්ය,"{
+(NULL, 'Overall Satisfaction', 'පට්ට වට්ච් එකක්', positive),
+('ගානට', 'Price / Value for Money', 'සුපිරි ගානට වටිනවා', positive),
+(NULL, 'Overall Satisfaction', 'කිසි අව්ලක් නැතුව මේ seller ගෙන් buy කරන්න', positive),
+('seller', 'Product Quality', 'seller quality', positive)
+}",Sinhala_in_English,electronic
+8,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",4,watch එක ගොඩක් හොදයි.අවුලකට තියෙන්නේ වොච් එක ගැහුවට පස්සෙ රත් වෙනවා ගලවද්දි .ඒත් විනාඩියකින් විතර එක හරි යනවා.මොන වුනත් ගනට  සාධාරණයක් කරලා තියෙනවා.මං වොච් එකට මාර ආසයි.,watch එක ගොඩක් හොදයි.අවුලකට තියෙන්නේ වොච් එක ගැහුවට පස්සෙ රත් වෙනවා ගලවද්දි .ඒත් විනාඩියකින් විතර එක හරි යනවා.මොන වුනත් ගනට  සාධාරණයක් කරලා තියෙනවා.මං වොච් එකට මාර ආසයි.,"{
+('watch එක', 'Overall Satisfaction', 'ගොඩක් හොදයි', positive),
+('වොච් එක', 'Performance Stability', 'ගැහුවට පස්සෙ රත් වෙනවා', negative),
+('ගනට', 'Price / Value for Money', 'සාධාරණයක් කරලා තියෙනවා', positive),
+('වොච් එක', 'Overall Satisfaction', 'මං වොච් එකට මාර ආසයි', positive)
+}",Pure_Sinhala,electronic
+9,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",4,මට අද මේක හම්බුනේ මම මේක on කරද්දි on උන්නෑ ඊටපස්සෙ charge කරාට පස්සෙ on උනේ seller  ගොඩක් හොදය් highly recommended ❤️,මට අද මේක හම්බුනේ මම මේක on කරද්දි on උන්නෑ ඊටපස්සෙ charge කරාට පස්සෙ on උනේ seller  ගොඩක් හොදය් highly recommended ❤️,"{
+(NULL, 'Charging Speed', 'charge කරාට පස්සෙ on උනේ', neutral),
+('seller', 'Overall Satisfaction', 'seller ගොඩක් හොදය්', positive),
+(NULL, 'Overall Satisfaction', 'highly recommended ❤️', positive)
+}",Pure_Sinhala,electronic
+10,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,deliver speed සුපිරි watch ekak supar 😘good selar.. ඔබත් අදම මිලදි ගන්න🥰🥰,deliver speed සුපිරි watch ekak supar 😘good selar.. ඔබත් අදම මිලදි ගන්න🥰🥰,"{
+(NULL, 'Delivery Experience', 'deliver speed සුපිරි', positive),
+('watch ekak', 'Overall Satisfaction', 'supar 😘', positive),
+('seller', 'Overall Satisfaction', 'good selar', positive),
+(NULL, 'Overall Satisfaction', 'ඔබත් අදම මිලදි ගන්න🥰🥰', positive)
+}",Pure_Sinhala,electronic
+11,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,Excatly same as shown...Working well...Very fast Delivery...Recommend the seller...,ඒෂ්කත්ල්ය සමේ ඇස ශෝව්න්...වොර්කින්ග් වෙල්ල්...වෙර්ය් ෆස්ට් දෙලිවෙර්ය්...රෙචොම්මෙන්ඩ් තේ සෙල්ලෙර්...,"{
+(NULL, 'Performance', 'working well', positive),
+(NULL, 'Delivery Experience', 'very fast delivery', positive),
+('seller', 'Overall Satisfaction', 'recommend the seller', positive)
+}",Sinhala_in_English,electronic
+12,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,fast delivery නියම watch එක ගන්න එකෙකුට කියන්න තියෙන්නෙ ගනින්. මේක නියමයි bro. so thank you daraz.🤗🤗🤗🤗🤗🤗🤗🤗🤗,fast delivery නියම watch එක ගන්න එකෙකුට කියන්න තියෙන්නෙ ගනින්. මේක නියමයි bro. so thank you daraz.🤗🤗🤗🤗🤗🤗🤗🤗🤗,"{
+(NULL, 'Delivery Experience', 'fast delivery', positive),
+('watch එක', 'Overall Satisfaction', 'නියම watch එක', positive),
+(NULL, 'Overall Satisfaction', 'ගන්න එකෙකුට කියන්න තියෙන්නෙ ගනින්. මේක නියමයි bro. thank you daraz 🤗🤗🤗', positive)
+}",Pure_Sinhala,electronic
+13,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,"fsat shipping ,good product   mokak hari avulak thibunoth ikmaninin reply kranava  really good seller",ෆස්ට් ශිප්පින්ග්,"{
+(NULL, 'Delivery Experience', 'ෆස්ට් ශිප්පින්ග්', positive)
+}",Sinhala_in_English,electronic
+14,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,කිසි දේකට බයවෙන්න එපා.දවස් තුනෙන් ඕඩර් එකත් ආවා.WATCH එක මාරම QUALITY. I AM SO HAPPY.බය නැතුව ORDER කරන්න. RECOMMEND THIS SELLER!,කිසි දේකට බයවෙන්න එපා.දවස් තුනෙන් ඕඩර් එකත් ආවා.WATCH එක මාරම QUALITY. I AM SO HAPPY.බය නැතුව ORDER කරන්න. RECOMMEND THIS SELLER!,"{
+(NULL, 'Overall Satisfaction', 'කිසි දේකට බයවෙන්න එපා', positive),
+(NULL, 'Delivery Experience', 'දවස් තුනෙන් ඕඩර් එකත් ආවා', positive),
+('WATCH එක', 'Product Quality', 'මාරම QUALITY', positive),
+(NULL, 'Overall Satisfaction', 'I AM SO HAPPY.බය නැතුව ORDER කරන්න', positive),
+('SELLER', 'Overall Satisfaction', 'RECOMMEND THIS SELLER', positive)
+}",Pure_Sinhala,electronic
+15,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,Godakma hodai. Mm online order karapu palavenima de. Podi bayak thibba enakm . Eth Delivery eken sarin sare call karara gedrlagataam genalla dunna. Delivery nm supiri . Davas deken ave. Watch ekath a vagema thamai. Hodatama hodai   kisima prashnayak na. Battery ekath hodatama  hodai #win,ගොඩක්ම හොදි. ම්ම් ඔන්ලිනේ ඔර්දෙර් කරපු පළවෙනිම දේ. පොඩි බයක් තිබ්බ එනකම් . එත් දෙලිවෙර්ය් එකෙන් සරින් සැරේ චාල්ල් කරර ගෙද්ර්ලගටාම් ගෙනල්ල දුන්න. දෙලිවෙර්ය් නම් සුපිරි . දවස් දෙකෙන් ආවේ. වට්ච් එකත් a vagema thamai. Hodatama hodai   kisima prashnayak na. Battery ekath hodatama  hodai #win,"{
+(NULL, 'Overall Satisfaction', 'ගොඩක්ම හොදි', positive),
+(NULL, 'Delivery Experience', 'දෙලිවෙර්ය් එකෙන් සරින් සැරේ call කරලා ගෙදරටම ගෙනල්ල දුන්න.දෙලිවෙර්ය් නම් සුපිරි.දවස් දෙකෙන් ආවේ', positive),
+('වට්ච් එක', 'Overall Satisfaction', 'hodatama hodai kisima prashnayak na', positive),
+('Battery ekath', 'Battery Life', 'hodatama hodai', positive)
+}",Sinhala_in_English,electronic
+16,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,චාජ් එකට ගහලා තිබ්බම විතරයිනෙ පෙන්නන්නෙ ම්න් පැය තුනක් විතර චාච් කලා චාජ්  එකෙන් ගත්තම වැඩ නැ රිටන් කරන්න පුලුවන්ද ම්න් වොච් දෙකක් ගත්තා එකක් වැඩ මෙක වැඩ නැ,චාජ් එකට ගහලා තිබ්බම විතරයිනෙ පෙන්නන්නෙ ම්න් පැය තුනක් විතර චාච් කලා චාජ්  එකෙන් ගත්තම වැඩ නැ රිටන් කරන්න පුලුවන්ද ම්න් වොච් දෙකක් ගත්තා එකක් වැඩ මෙක වැඩ නැ,"{
+(NULL, 'Charging Speed', 'පැය තුනක් විතර charge කලා', neutral),
+(NULL, 'Reliability', 'charge එකෙන් ගත්තම වැඩ නැ', negative),
+(NULL, 'Reliability', 'එකක් වැඩ මෙක වැඩ නැ', negative)
+}",Pure_Sinhala,electronic
+17,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,කියන්න  කිසිම වැරැද්දක්  නැ... සුපිරියක්    අවේ  සීල්  පැක්,කියන්න  කිසිම වැරැද්දක්  නැ... සුපිරියක්    අවේ  සීල්  පැක්,"{
+(NULL, 'Overall Satisfaction', 'කියන්න කිසිම වැරැද්දක් නැ. සුපිරියක්', positive),
+(NULL, 'Packaging', 'සීල් පැක්', positive)
+}",Pure_Sinhala,electronic
+18,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,ගෙවන ගානට මාරම වටිනවා Deliver එකත් මරැ ඕඩර් එක දාපු දවසට පහුවෙනිදම ආවා ❤😻,ගෙවන ගානට මාරම වටිනවා Deliver එකත් මරැ ඕඩර් එක දාපු දවසට පහුවෙනිදම ආවා ❤😻,"{
+('ගානට', 'Price / Value for Money', 'මාරම වටිනවා', positive),
+(NULL, 'Delivery Experience', 'Deliver එකත් මරැ. ඕඩර් එක දාපු දවසට පහුවෙනිදම ආවා ❤😻', positive)
+}",Pure_Sinhala,electronic
+19,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,Aththatama godak hoda product ekak. Mn me jathiye watches 2k buy kra. E watches 2m hodata wada. Me sellerth godak hodayi. Dawas 3n Delivery eka dunna.,ඇත්තටම ගොඩක් හොද ප්රෝදුච්ට් එකක්. මන් මේ ජාතියේ වට්චෙස් 2ක් බුය් කර. ඒ වට්චෙස් 2ම් හොදට වැඩ. මේ සෙල්ලෙර්ත් ගොඩක් හොදයි. දවස් 3න් දෙලිවෙර්ය් එක දුන්න.,"{
+(NULL, 'Product Quality', 'ගොඩක් හොද ප්රෝදුච්ට් එකක්', positive),
+(Watches, 'Reliability', 'වට්චෙස් 2ම් හොදට වැඩ', positive),
+('seller', 'Overall Satisfaction', 'මේ sellerත් ගොඩක් හොදයි', positive),
+(NULL, 'Delivery Experience', 'දවස් 3න් delivery එක දුන්න', positive)
+}",Sinhala_in_English,electronic
+20,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,Good Product.One day delivery.fast and speed Delivery service.High recommend this product. බය නැතුව ගන්න හොඳට වැඩ කරනවා.,Good Product.One day delivery.fast and speed Delivery service.High recommend this product. බය නැතුව ගන්න හොඳට වැඩ කරනවා.,"{
+(NULL, 'Product Quality', 'Good Product', positive),
+(NULL, 'Delivery Experience', 'One day delivery. fast and speed Delivery service', positive),
+(NULL, 'Overall Satisfaction', 'High recommend this product', positive),
+(NULL, 'Reliability', 'හොඳට වැඩ කරනවා', positive)
+}",Pure_Sinhala,electronic
+21,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,black color eka mata labune. customer order karanne eyata ona eka seller t ona eka nemei. eth watch eka hodai mata color eka charge karaganna puluwan da plz ?,බ්ලච්ක් චොලෝර් එක මට ලැබුනේ. චුස්ටෝමෙර් ඔර්දෙර් කරන්නේ එයට ඕන එක සෙල්ලෙර් ට ඕන එක නෙමෙඉ. එත් වට්ච් එක හොදි මට චොලෝර් එක චර්ගේ කරගන්න පුළුවන් ද ප්ල්ළ ?,"{
+('බ්ලච්ක් චොලෝර් එක', 'Product Quality', 'මට ලැබුනේ', neutral),
+('seller', 'Overall Satisfaction', 'customer order කරන්නේ එයට ඕන එක seller ට ඕන එක නෙමෙයි', negative),
+('වට්ච් එක', 'Overall Satisfaction', 'වට්ච් එක හොදි', positive)
+}",Sinhala_in_English,electronic
+22,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,Watch eka hodai. habai screen eke bubble ekak avith thiyenava.  scratch marks thiyenawa. e arenna vena avulak nam na🥲,වට්ච් එක හොදි. හබි ස්ච්රීන් එකේ බුබ්බ්ලේ එකක් ඇවිත් තියෙනවා.  ස්ච්රට්ච් මාර්කස් තියෙනවා. ඒ ඇරෙන්න වෙන අවුලක් නම් න🥲,"{
+('වට්ච් එක', 'Overall Satisfaction', 'හොදි', positive),
+('ස්ච්රීන් එක', 'Display Quality', 'බුබ්බ්ලේ එකක් ඇවිත් තියෙනවා', negative),
+('ස්ච්රට්ච් මාර්කස්', 'Build Quality', 'ස්ච්රට්ච් මාර්කස් තියෙනවා', negative),
+(NULL, 'Reliability', 'වෙන අවුලක් නම් න', positive)
+}",Sinhala_in_English,electronic
+23,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,"වොට්ච් එක ඇත්තටම නියමයි. හැමදෙයක්ම වැඩ. Call ගන්නත් පුලුවන් හොදට Blood pressure එව්වත් හොදට වැඩ චාර්ජ් එකත් තියේ හොදට iOS ,Android දෙකෙන්ම පාවිච්චි කරහැකි ඩිලිවරි එකත් ඉක්මනින් ආව  Thank you Daraz!💗","වොට්ච් එක ඇත්තටම නියමයි. හැමදෙයක්ම වැඩ. Call ගන්නත් පුලුවන් හොදට Blood pressure එව්වත් හොදට වැඩ චාර්ජ් එකත් තියේ හොදට iOS ,Android දෙකෙන්ම පාවිච්චි කරහැකි ඩිලිවරි එකත් ඉක්මනින් ආව  Thank you Daraz!💗","{
+('වොට්ච් එක', 'Overall Satisfaction', 'ඇත්තටම නියමයි', positive),
+(NULL, 'Performance', 'හැමදෙයක්ම වැඩ. Call ගන්නත් පුලුවන්. Blood pressure එව්වත් හොදට වැඩ', positive),
+(NULL, 'Battery Life', 'චාර්ජ් එකත් තියේ හොදට', positive),
+('iOS ,Android', 'Compatibility', 'දෙකෙන්ම පාවිච්චි කරහැකි', positive),
+(NULL, 'Delivery Experience', 'ඩිලිවරි එකත් ඉක්මනින් ආව.  Thank you Daraz!💗', positive)
+}",Pure_Sinhala,electronic
+24,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,illana eka nemei ewanne ganna epa kawruwath. personal message karalath kiwwa ewanna ona color eka. deparak order kala deparama waradi ewa ewwe.,ඉල්ලන එක නෙමෙඉ එවන්නේ ගන්න එපා කව්රුවත්. පෙර්සොනල් මෙස්සගේ කරලත් කිව්වා එවන්න ඕන චොලෝර් එක. දෙපාරක් ඔර්දෙර් කල දෙපාරම වැරදි ඒවා එව්වේ.,"{
+(NULL, 'Overall Satisfaction', 'ඉල්ලන එක නෙමෙඉ එවන්නේ', negative),
+(NULL, 'Overall Satisfaction', 'ගන්න එපා කව්රුවත්', negative),
+(NULL, 'Reliability', 'දෙපාරක් order කල දෙපාරම වැරදි ඒවා එව්වේ', negative)
+}",Sinhala_in_English,electronic
+25,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,හරිම හොද 😇 Dilivery partner කෙනෙක් දවස් දෙකෙන් 2 ආකව👌 හොදට පැක් කරල තියෙනව 🦴🔥ගානත් අඩුයි 💰 බයනැතුව ඔයාලත් ගන්න.🔥,හරිම හොද 😇 Dilivery partner කෙනෙක් දවස් දෙකෙන් 2 ආකව👌 හොදට පැක් කරල තියෙනව 🦴🔥ගානත් අඩුයි 💰 බයනැතුව ඔයාලත් ගන්න.🔥,"{
+(NULL, 'Delivery Experience', 'හරිම හොද 😇 Dilivery partner කෙනෙක් දවස් දෙකෙන් 2 ආකව👌', positive),
+(NULL, 'Packaging', 'හොදට පැක් කරල තියෙනව', positive),
+(NULL, 'Price / Value for Money', 'ගානත් අඩුයි', positive),
+(NULL, 'Overall Satisfaction', 'බයනැතුව ඔයාලත් ගන්න 🔥', positive)
+}",Pure_Sinhala,electronic
+26,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,"watch එක නම් ගොඩක් හොදයි හොඳ bulid quality එකක් තියෙනවා. කිසිම damage එකක් තිබ්බේ නෑ කියපු දවස් වලට වඩා ගොඩක් කලින් delever කරා . watch එක ලැබෙද්දී නම් bettery 0% ඒ උනාට charge කරලා බැලුවා watch එක වැඩ . good product,ගෙවන ගානට වඩා නම් ගොඩක් වටිනවා . බය නැතුව ගන්න.highley reccomend","watch එක නම් ගොඩක් හොදයි හොඳ bulid quality එකක් තියෙනවා. කිසිම damage එකක් තිබ්බේ නෑ කියපු දවස් වලට වඩා ගොඩක් කලින් delever කරා . watch එක ලැබෙද්දී නම් bettery 0% ඒ උනාට charge කරලා බැලුවා watch එක වැඩ . good product,ගෙවන ගානට වඩා නම් ගොඩක් වටිනවා . බය නැතුව ගන්න.highley reccomend","{
+('watch එක', 'Overall Satisfaction', 'ගොඩක් හොදයි', positive),
+(NULL, 'Build Quality', 'හොඳ build quality එකක් තියෙනවා', positive),
+(NULL, 'Packaging', 'කිසිම damage එකක් තිබ්බේ නෑ', positive),
+(NULL, 'Delivery Experience', 'කියපු දවස් වලට වඩා ගොඩක් කලින් deliver කරා', positive),
+(NULL, 'Battery Life', 'battery 0% තිබ්බා', negative),
+(NULL, 'Reliability', 'charge කරලා බැලුවා watch එක වැඩ', positive),
+(NULL, 'Product Quality', 'good product', positive),
+('ගානට', 'Price / Value for Money', 'ගොඩක් වටිනවා', positive),
+(NULL, 'Overall Satisfaction', 'බය නැතුව ගන්න. highly recommend', positive)
+}",Pure_Sinhala,electronic
+27,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,quality eka nm tikak adui  button ema luse vage  vena kisima aulak na  battery life ekath godak hondai,කුඅලිත්ය එක නම් ටිකක් අදුඉ  බුට්ටෝන් එම ලුසේ වගේ  වෙන කිසිම ඖලක් න  බට්ටේර්ය් ලිෆේ එකත් ගොඩක් හොඳි,"{
+(NULL, 'Product Quality', 'quality එක නම් ටිකක් අඩුයි', negative),
+('button', 'Build Quality', 'button එම loose වගේ', negative),
+(NULL, 'Reliability', 'වෙන කිසිම අවුලක් න', positive),
+(NULL, 'Battery Life', 'battery life එකත් ගොඩක් හොඳි', positive)
+}",Sinhala_in_English,electronic
+28,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,"product එකේ ගාන හැටියට නම් වටිනව.screen එක නම් ටිකක් සීරිල තිබ්බ.ඒකට guard එකක් වත් දාල තිබ්බෙ නෑ.හරියට ටච් වෙන්නෙත්නෑ හැබැයි.මගෙ එකේ නම්,ඔය වීඩියෝඑකේ තියෙන ගේම එක නෙමේ තිබ්බෙ,නයි ගේම් එකක්.","product එකේ ගාන හැටියට නම් වටිනව.screen එක නම් ටිකක් සීරිල තිබ්බ.ඒකට guard එකක් වත් දාල තිබ්බෙ නෑ.හරියට ටච් වෙන්නෙත්නෑ හැබැයි.මගෙ එකේ නම්,ඔය වීඩියෝඑකේ තියෙන ගේම එක නෙමේ තිබ්බෙ,නයි ගේම් එකක්.","{
+('ගාන', 'Price / Value for Money', 'ගාන හැටියට නම් වටිනව', positive),
+('screen එක', 'Display Quality', 'ටිකක් සීරිල තිබ්බ', negative),
+(NULL, 'Packaging', 'guard එකක් වත් දාල තිබ්බෙ නෑ', negative),
+(NULL, 'Display Quality', 'හරියට ටච් වෙන්නෙත් නෑ', negative),
+(NULL, 'Product Quality', 'වීඩියෝඑකේ තියෙන ගේම එක නෙමේ තිබ්බෙ', negative)
+}",Pure_Sinhala,electronic
+29,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,අවුලක් නෑ වෝච් එක සුපිරියට වැඩ කරනවා හොඳට පැකින් කරල තිබ්බා. ගොඩක් කල් පාවිච්චි කරන්න පුළුවන් විදියට තියෙනවා මේ ගානට මේක හොඳටම ලාබයි මම මේ වෑන් දෙකක්ම ගෙන්නුව එහෙම ඔක්කොම හොඳයි,අවුලක් නෑ වෝච් එක සුපිරියට වැඩ කරනවා හොඳට පැකින් කරල තිබ්බා. ගොඩක් කල් පාවිච්චි කරන්න පුළුවන් විදියට තියෙනවා මේ ගානට මේක හොඳටම ලාබයි මම මේ වෑන් දෙකක්ම ගෙන්නුව එහෙම ඔක්කොම හොඳයි,"{
+('වෝච් එක', 'Reliability', 'සුපිරියට වැඩ කරනවා', positive),
+(NULL, 'Packaging', 'හොඳට packing කරල තිබ්බා', positive),
+(NULL, 'Durability', 'ගොඩක් කල් පාවිච්චි කරන්න පුළුවන්', positive),
+('ගානට', 'Price / Value for Money', 'මේක හොඳටම ලාබයි', positive),
+(NULL, 'Overall Satisfaction', 'ඔක්කොම හොඳයි', positive)
+}",Pure_Sinhala,electronic
+30,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,"superb,24 hours delivery,good packing,fast charge  good good but about,say this watch is t900 ultra2     good",සුපෙර්බ්,"{ (NULL, 'Overall Satisfaction', 'සුපෙර්බ්', positive) }",Sinhala_in_English,electronic
+31,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,ඇත්තටම watch එකනම් හොදයි. battery ඒක දවස් 3 ක්‌ විතර පාවිච්චි කරන්න පුළුවන්. මන් ඔඩර් කරලා දවස් 3 න් ගෙදරටම අවා. රුපියල් 1700 කට හොදටම වටිනවා...🖤,ඇත්තටම watch එකනම් හොදයි. battery ඒක දවස් 3 ක්‌ විතර පාවිච්චි කරන්න පුළුවන්. මන් ඔඩර් කරලා දවස් 3 න් ගෙදරටම අවා. රුපියල් 1700 කට හොදටම වටිනවා...🖤,"{
+('watch එක', 'Overall Satisfaction', 'හොදයි', positive),
+('battery එක', 'Battery Life', 'දවස් 3 ක් විතර පාවිච්චි කරන්න පුළුවන්', positive),
+(NULL, 'Delivery Experience', 'order කරලා දවස් 3 න් ගෙදරටම ආවා', positive),
+('රුපියල් 1700', 'Price / Value for Money', 'හොදටම වටිනවා', positive)
+}",Pure_Sinhala,electronic
+32,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,"සති 2ක් වගේ මේක පාවිච්චි කරා කිසිම අවුලක් නෑ දැනට. ගන්න ගානට මාරම විදිහට වටිනව.පැකින් , ඩිලිවර් කිරීමත් සුපිරි දවස් 2න් වගේ ආව. Thank you Daraz..👍™️","සති 2ක් වගේ මේක පාවිච්චි කරා කිසිම අවුලක් නෑ දැනට. ගන්න ගානට මාරම විදිහට වටිනව.පැකින් , ඩිලිවර් කිරීමත් සුපිරි දවස් 2න් වගේ ආව. Thank you Daraz..👍™️","{
+(NULL, 'Reliability', 'සති 2ක් වගේ පාවිච්චි කරා කිසිම අවුලක් නෑ', positive),
+('ගානට', 'Price / Value for Money', 'මාරම විදිහට වටිනව', positive),
+(NULL, 'Packaging', 'පැකින් සුපිරි', positive),
+(NULL, 'Delivery Experience', 'ඩිලිවර් කිරීමත් සුපිරි දවස් 2න් වගේ ආව', positive)
+}",Pure_Sinhala,electronic
+33,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,කිව්ව දිනේට කලින්  ආව පැකිනුත් හොදයි හැබැයි ඕර්ඩර් කරපු කලර් එක නෙවේ ආවෙ grey order කරේ orange ආවෙ,කිව්ව දිනේට කලින්  ආව පැකිනුත් හොදයි හැබැයි ඕර්ඩර් කරපු කලර් එක නෙවේ ආවෙ grey order කරේ orange ආවෙ,"{
+(NULL, 'Delivery Experience', 'කිව්ව දිනේට කලින් ආව', positive),
+(NULL, 'Packaging', 'පැකිනුත් හොදයි', positive),
+('කලර් එක', 'Product Quality', 'order කරපු color එක නෙවේ grey order කරේ orange ආවෙ', negative)
+}",Pure_Sinhala,electronic
+34,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",4,ගෙවන මුදලට වටිනාකමක් තියෙනවා .Display quality තරමක් දුරට හොඳයි.බරනම් සැහැල්ලුයි ගොඩක්.ඔරලෝසවේ  මුහුන silver පාටයි .Sound quality හිතුවට වඩා හොඳයි.,ගෙවන මුදලට වටිනාකමක් තියෙනවා .Display quality තරමක් දුරට හොඳයි.බරනම් සැහැල්ලුයි ගොඩක්.ඔරලෝසවේ  මුහුන silver පාටයි .Sound quality හිතුවට වඩා හොඳයි.,"{
+(NULL, 'Price / Value for Money', 'ගෙවන මුදලට වටිනාකමක් තියෙනවා', positive),
+('Display quality', 'Display Quality', 'තරමක් දුරට හොඳයි', positive),
+(NULL, 'Portability (Size & Weight)', 'බරනම් සැහැල්ලුයි ගොඩක්', positive),
+(NULL, 'Product Quality', 'ඔරලෝසවේ මුහුන silver පාටයි', neutral),
+('Sound quality', 'Audio Quality', 'හිතුවට වඩා හොඳයි', positive)
+}",Pure_Sinhala,electronic
+35,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",4,black colour එකක් order කරෙ . ආවෙ වෙන පාට එකක් ..ඩිලිවර් සර්විස් එක නම් ඉක්මන්.වොච් එක හොදයි,black colour එකක් order කරෙ . ආවෙ වෙන පාට එකක් ..ඩිලිවර් සර්විස් එක නම් ඉක්මන්.වොච් එක හොදයි,"{
+(NULL, 'Overall Satisfaction', 'order කරේ black colour එක, ආවෙ වෙන පාට එකක්', negative),
+(NULL, 'Delivery Experience', 'ඩිලිවර් service එක නම් ඉක්මන්', positive),
+('වොච් එක', 'Overall Satisfaction', 'හොදයි', positive)
+}",Pure_Sinhala,electronic
+36,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,ඉක්මනටම deliver කලා කිසිම issue එකක් නෑ හොද seller කෙනෙක්  highly recommended,ඉක්මනටම deliver කලා කිසිම issue එකක් නෑ හොද seller කෙනෙක්  highly recommended,"{
+(NULL, 'Delivery Experience', 'ඉක්මනටම deliver කලා', positive),
+(NULL, 'Reliability', 'කිසිම issue එකක් නෑ', positive),
+('seller', 'Overall Satisfaction', 'හොද seller කෙනෙක්.highly recommended', positive)
+}",Pure_Sinhala,electronic
+37,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,හොඳ product ekak and packing කරපු එකත් හොඳට කරලා තිබුනා බය නැතුව ගන්න,හොඳ product ekak and packing කරපු එකත් හොඳට කරලා තිබුනා බය නැතුව ගන්න,"{
+(NULL, 'Product Quality', 'හොඳ product ekak', positive),
+(NULL, 'Packaging', 'packing කරපු එකත් හොඳට කරලා තිබුනා', positive),
+(NULL, 'Overall Satisfaction', 'බය නැතුව ගන්න', positive)
+}",Pure_Sinhala,electronic
+38,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,ගෙවන ගානට ගොඩක් වටින watch එකක් ඕන කෙනෙක්ට බය නැතුව ගන්න කියලා recommend කරන්න පුලුවන් 👌,ගෙවන ගානට ගොඩක් වටින watch එකක් ඕන කෙනෙක්ට බය නැතුව ගන්න කියලා recommend කරන්න පුලුවන් 👌,"{
+('ගානට', 'Price / Value for Money', 'ගොඩක් වටින', positive),
+('watch එකක්', 'Overall Satisfaction', 'ඕන කෙනෙක්ට බය නැතුව ගන්න recommend කරන්න පුලුවන් 👌', positive)
+}",Pure_Sinhala,electronic
+39,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,whoch ekanam hodai mama damme sudupata ekak ave kalu hariyata pata evvanam thavath hodai,ව්හොච් එකනම් හොදි මම දැම්මේ සුදුපාට එකක් ආවේ කළු හරියට පට එව්වනම් තවත් හොදි,"{
+('ව්හොච් එක', 'Overall Satisfaction', 'හොදි', positive),
+('සුදුපාට එක', 'Product Quality', 'දැම්මේ සුදුපාට එකක් ආවේ කළු', negative),
+(NULL, 'Overall Satisfaction', 'හරියට පාට එව්වනම් තවත් හොදි', negative)
+}",Sinhala_in_English,electronic
+40,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",4,සුපිරි..❤️‍🩹 පෙට්ටිය පොඩ්ඩක් ඩැමේජ් වෙලා තිබ්බ..ඒත් ඇතුල කිසිම ඩැමේජ් එකක් නෑ..❤️‍🩹,සුපිරි..❤️‍🩹 පෙට්ටිය පොඩ්ඩක් ඩැමේජ් වෙලා තිබ්බ..ඒත් ඇතුල කිසිම ඩැමේජ් එකක් නෑ..❤️‍🩹,"{
+(NULL, 'Overall Satisfaction', 'සුපිරි ❤️‍🩹', positive),
+('පෙට්ටිය', 'Packaging', 'පොඩ්ඩක් damage වෙලා තිබ්බ', negative),
+(NULL, 'Packaging', 'ඇතුල කිසිම damage එකක් නෑ ❤️‍🩹', positive)
+}",Pure_Sinhala,electronic
+41,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",4,අව්ලක් නෑ ගත්ත ගානට වටිනවා හැබැයි මේකෙ box එකේ තියෙන්නෙ T900 කියලා but මේ watch එකේ ඇත්ත brand name එක ultra 9 කියලා ගෙනැල්ලා දවසක් විතර ගියේ දවස් දෙකෙන් ආවා.තාම නං අවුලක් නෑ recommend කරන්න පුලුවන් seller කෙනෙක්.....#win,අව්ලක් නෑ ගත්ත ගානට වටිනවා හැබැයි මේකෙ box එකේ තියෙන්නෙ T900 කියලා but මේ watch එකේ ඇත්ත brand name එක ultra 9 කියලා ගෙනැල්ලා දවසක් විතර ගියේ දවස් දෙකෙන් ආවා.තාම නං අවුලක් නෑ recommend කරන්න පුලුවන් seller කෙනෙක්.....#win,"{
+(NULL, 'Price / Value for Money', 'ගත්ත ගානට වටිනවා', positive),
+('box එක', 'Product Quality', 'box එකේ තියෙන්නෙ T900 කියලා but watch එකේ brand name ultra 9', neutral),
+(NULL, 'Delivery Experience', 'දවස් දෙකෙන් ආවා', positive),
+(NULL, 'Reliability', 'තාම නං අවුලක් නෑ', positive),
+('seller', 'Overall Satisfaction', 'recommend කරන්න පුලුවන් seller කෙනෙක්', positive)
+}",Pure_Sinhala,electronic
+42,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,ඇත්තටම ගෙවන ගානට වටිනවා මේ watch එක. කිසිම අවුලක් නෑ. හොදට වැඩ කරනවා. දවස් එක හමාරක් විතර එක චාර්ජ් එකකින් වැඩ කරනවා.,ඇත්තටම ගෙවන ගානට වටිනවා මේ watch එක. කිසිම අවුලක් නෑ. හොදට වැඩ කරනවා. දවස් එක හමාරක් විතර එක චාර්ජ් එකකින් වැඩ කරනවා.,"{
+('ගෙවන ගානට', 'Price / Value for Money', 'වටිනවා', positive),
+(NULL, 'Reliability', 'කිසිම අවුලක් නෑ', positive),
+(NULL, 'Performance', 'හොදට වැඩ කරනවා', positive),
+(NULL, 'Battery Life', 'දවස් එක හමාරක් විතර එක charge එකකින් වැඩ කරනවා', positive)
+}",Pure_Sinhala,electronic
+43,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,thank you daraz මට දවස් දෙකෙන් ගෙනත් දුන්න thank you සුපිරියක් මේ ගානට මේ ඔරලෝසුව පට්ට වටිනවා හොඳට පැකින් කරලා තියෙනවා බය නැතුව ගන්න මාරම සතුටුයි😊😊😊😊😊😊❤️❤️❤️❤️❤️❤️,thank you daraz මට දවස් දෙකෙන් ගෙනත් දුන්න thank you සුපිරියක් මේ ගානට මේ ඔරලෝසුව පට්ට වටිනවා හොඳට පැකින් කරලා තියෙනවා බය නැතුව ගන්න මාරම සතුටුයි😊😊😊😊😊😊❤️❤️❤️❤️❤️❤️,"{
+(NULL, 'Delivery Experience', 'දවස් දෙකෙන් ගෙනත් දුන්න', positive),
+('ගානට', 'Price / Value for Money', 'මේ ඔරලෝසුව පට්ට වටිනවා', positive),
+(NULL, 'Packaging', 'හොඳට පැකින් කරලා තියෙනවා', positive),
+(NULL, 'Overall Satisfaction', 'බය නැතුව ගන්න. මාරම සතුටුයි 😊❤️', positive)
+}",Pure_Sinhala,electronic
+44,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",4,aththatama meka hodayi hithuwata wada ikmanata awa supiri😀😀🤑,ඇත්තටම මේක හොදයි හිතුවට වැඩ ඉක්මනට අව සුපිරි😀😀🤑,"{
+(NULL, 'Overall Satisfaction', 'ඇත්තටම මේක හොදයි', positive),
+(NULL, 'Delivery Experience', 'ඉක්මනට ආව', positive),
+(NULL, 'Overall Satisfaction', 'සුපිරි 😀😀🤑', positive)
+}",Sinhala_in_English,electronic
+45,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,supiriyi. davas thunen gedarata watch eka ava.battery life ekath hodayi. good selling. thank you daraz.😁😁😁😁,සුපිරියි. දවස් තුනෙන් ගෙදරට වට්ච් එක අව.බට්ටේර්ය් ලිෆේ එකත් හොදයි. ගූඩ් සෙල්ලින්ග්. තැනක් යෞ දරළ්.😁😁😁😁,"{
+(NULL, 'Overall Satisfaction', 'සුපිරියි', positive),
+(NULL, 'Delivery Experience', 'දවස් තුනෙන් ගෙදරට වට්ච් එක ආව', positive),
+(NULL, 'Battery Life', 'battery life එකත් හොදයි', positive),
+('seller', 'Overall Satisfaction', 'good selling', positive)
+}",Sinhala_in_English,electronic
+46,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,mekanam supiriyak bayanathuwa ganna man oder kara supiri watch akak gane hatiyata nam watinawa godak thanks daraz 💙meka oder kare 2023/11/5 awe 2023/11/7 patta ikman delivery service aka nam supiri seller service akath godak hodai man meka gaththe hena bayen habai hithuwatath wada hodai watch aka,මේකනම් සුපිරියක් බයනතුව ගන්න මන් ඔදෙර් කර සුපිරි වට්ච් අකක් ගැනේ හැටියට නම් වටිනවා ගොඩක් තැන්ක්ස් දරළ් 💙මේක ඔදෙර් කරේ 2023/11/5 අවේ 2023/11/7 පට්ට ඉක්මන් දෙලිවෙර්ය් service aka nam supiri seller service akath godak hodai man meka gaththe hena bayen habai hithuwatath wada hodai watch aka,"{
+(NULL, 'Overall Satisfaction', 'මේකනම් සුපිරියක්. බයනතුව ගන්න', positive),
+('ගානේ හැටියට', 'Price / Value for Money', 'වටිනවා', positive),
+(NULL, 'Delivery Experience', '2023/11/5 order කරේ 2023/11/7 ආවේ. පට්ට ඉක්මන් delivery service', positive),
+('seller service', 'Overall Satisfaction', 'seller service එකත් ගොඩක් හොදයි', positive),
+('watch එක', 'Overall Satisfaction', 'හිතුවටත් වඩා හොදයි', positive)
+}",Sinhala_in_English,electronic
+47,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,මේක සුපිරි..❤️‍🩹🔥 බය නැතුව ගන්න හැමෝම..මේ ගානට මේක ගෙන කියන්න ආය වචන නෑ..💸🫶🤍,මේක සුපිරි..❤️‍🩹🔥 බය නැතුව ගන්න හැමෝම..මේ ගානට මේක ගෙන කියන්න ආය වචන නෑ..💸🫶🤍,"{
+(NULL, 'Overall Satisfaction', 'මේක සුපිරි ❤️‍🩹🔥. බය නැතුව ගන්න හැමෝම', positive),
+('ගානට', 'Price / Value for Money', 'මේ ගානට මේක ගෙන කියන්න ආය වචන නෑ', positive)
+}",Pure_Sinhala,electronic
+48,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,දවස් 3න් ආව.ගෙවන ගානටනන් නියමයි ❤️‍🔥 ඒත් volume වැඩි කරාම speaker එක noisy වෙනව,දවස් 3න් ආව.ගෙවන ගානටනන් නියමයි ❤️‍🔥 ඒත් volume වැඩි කරාම speaker එක noisy වෙනව,"{
+(NULL, 'Delivery Experience', 'දවස් 3න් ආව', positive),
+(NULL, 'Price / Value for Money', 'නියමයි ❤️‍🔥', positive),
+('speaker එක', 'Audio Quality', 'volume වැඩි කරාම noisy වෙනව', negative)
+}",Pure_Sinhala,electronic
+49,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,ඉල්ලපු පාට නෙවේ ආවේ..කොහොමද මාරූ කරන්නේ?මං ඉල්ලුවේ gray.... හරියට බලලා පාට එවන්න ඔනේනේ...අපි කැමති පාට අපි ඕඩර් කරන්නේ අපිට ඒක ඔනේ නිසානේ...,ඉල්ලපු පාට නෙවේ ආවේ..කොහොමද මාරූ කරන්නේ?මං ඉල්ලුවේ gray.... හරියට බලලා පාට එවන්න ඔනේනේ...අපි කැමති පාට අපි ඕඩර් කරන්නේ අපිට ඒක ඔනේ නිසානේ...,"{
+(NULL, 'Overall Satisfaction', 'ඉල්ලපු පාට නෙවේ ආවේ. මං ඉල්ලුවේ gray.හරියට බලලා පාට එවන්න ඔනේ',', negative),
+('gray', 'Product Quality', 'මං ඉල්ලුවේ gray', neutral),
+(NULL, 'Product Quality', 'හරියට බලලා පාට එවන්න ඔනේ', negative),
+(NULL, 'Overall Satisfaction', 'අපි කැමති පාට අපි order කරන්නේ අපිට ඒක ඔනේ නිසා', negative)
+}",Pure_Sinhala,electronic
+50,Smart Watch T900 Ultra 49mm Big 2.09 inch 2023 Smart watch Series 8 Reloj inteligence Heart rate BT Call T900 Ultra Smart watch,"Rs. 3,000",5,super nice ඇතටම නියමයි කියන්න වචන නැ,super nice ඇතටම නියමයි කියන්න වචන නැ,"{ (NULL, 'Overall Satisfaction', 'super nice ඇතටම නියමයි කියන්න වචන නැ', positive) }",Pure_Sinhala,electronic
